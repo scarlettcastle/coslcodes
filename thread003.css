@@ -43,7 +43,11 @@
   font-size: 13px;
   color: #ccc;
 }
-.outlawthr b:before,b:after {
+.outlawthr b:before {
+ content: '"';
+ font-size: 15px;
+}
+.outlawthr b:after {
  content: '"';
  font-size: 15px;
 }
