@@ -1,0 +1,48 @@
+.outlawall {
+ width: 310px;
+ height: auto;
+ padding: 30px;
+ line-height: 100%;
+}
+.outlaward {
+ width: 250px;
+ height: auto;
+ padding: 90px 30px 30px 30px;
+ background-color: #333;
+ overflow: hidden;
+}
+.outlawin {
+ width: 248px;
+ height: auto;
+ border: 1px solid #222;
+}
+.outlawpic {
+ width: 120px;
+ height: 120px;
+ position: relative;
+ top: -60px;
+}
+.outlawpic img {
+ width: 80px;
+ height: 80px;
+}
+.outlawthr {
+ width: 220px;
+ height: auto;
+ padding: 0px 15px;
+ position: relative;
+ top: -30px;
+ font-family: raleway;
+ font-size: 11px;
+ line-height: 15px;
+ text-align: justify;
+ color: #aaa;
+ font-weight: 500;
+}
+.outlawthr b {
+  font-size: 13px;
+  color: #ccc;
+}
+.outlawthr i {
+  color: #ccc;
+}
