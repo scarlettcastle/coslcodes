@@ -1,0 +1,50 @@
+.lightoutcastall {
+ width: 310px;
+ height: auto;
+ padding: 30px;
+ line-height: 100%;
+}
+.lightoutcastard {
+ width: 250px;
+ height: auto;
+ padding: 90px 30px 30px 30px;
+ background-color: #ddd;
+ overflow: hidden;
+}
+.lightoutcastin {
+ width: 248px;
+ height: auto;
+ border: 1px solid #ccc;
+ background-color: #eee;
+}
+.lightoutcastpic {
+ width: 220px;
+ height: 120px;
+ position: relative;
+ top: -60px;
+}
+.lightoutcastpic img {
+ width: 180px;
+ height: 100px;
+ object-fit: cover;
+}
+.lightoutcastthr {
+ width: 220px;
+ height: auto;
+ padding: 0px 15px;
+ position: relative;
+ top: -20px;
+ font-family: raleway;
+ font-size: 11px;
+ line-height: 15px;
+ text-align: justify;
+ color: #666;
+ font-weight: 500;
+}
+.lightoutcastthr b {
+  font-size: 13px;
+  color: #333;
+}
+.lightoutcastthr i {
+  color: #333;
+}
