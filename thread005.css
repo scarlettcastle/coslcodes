@@ -1,0 +1,87 @@
+.uniall {
+ width: 300px;
+ height: auto;
+ background-color: #fff;
+ position: relative;
+ line-height: 100%;
+}
+.uniupper {
+ width: 300px;
+ height: 150px;
+}
+.unipic {
+ width: 80px;
+ height: 80px;
+ border: 3px solid #fff;
+ transform: rotate(-45deg);
+ -webkit-transform: rotate(-45deg);
+ -moz-transform: rotate(-45deg);
+ -o-transform: rotate(-45deg);
+ -ms-transform: rotate(-45deg);
+ overflow: hidden;
+ position: absolute;
+ top: 30px;
+ left: 0px; 
+ right: 0px; 
+ margin-left: auto; 
+ margin-right: auto;
+}
+.unipic2 {
+ width: 120px;
+ height: 120px;
+ transform: rotate(45deg);
+ -webkit-transform: rotate(45deg);
+ -moz-transform: rotate(45deg);
+ -o-transform: rotate(45deg);
+ -ms-transform: rotate(45deg);
+ margin: -22px;
+}
+.unipic2 img {
+ width: 120px;
+ height: 120px;
+}
+.uniline {
+ width: 300px;
+ height: 2px;
+ background-color: #fff;
+ position: absolute;
+ top: 72px;
+ left: 0px; 
+ right: 0px; 
+ margin-left: auto; 
+ margin-right: auto;
+}
+.unipost {
+ width: 220px;
+ height: auto;
+ padding: 40px;
+ text-align: justify;
+ font-family: poppins;
+ font-size: 12px;
+ line-height: 18px;
+ color: #333;
+}
+.unipost b {
+ font-size: 14px;
+ padding: 1px 3px;
+ border-radius: 3px;
+ font-style: italic;
+}
+.unipost i {
+ color: #000;
+}
+.unitag {
+ width: 300px;
+ height: 30px;
+ font-family: poppins;
+ font-size: 13px;
+ line-height: 30px;
+ color: #666;
+}
+.unitag a {
+  color: #333;
+  text-decoration: none; 
+}
+.unitag:before {
+ content: '#'; 
+}
