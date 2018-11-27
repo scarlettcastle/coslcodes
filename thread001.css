@@ -1,0 +1,50 @@
+.scarthrall {
+    width: 310px;
+    height: auto;
+    padding: 30px;
+    /*background-color: #fbfbfb;*/
+    border: 1px solid #eee;
+    line-height: 100%;
+  }
+  .scarthrard {
+    width: 310px;
+    height: auto;
+    background-color: #fafafa;
+    /*border: 1px solid #eee;*/
+  }
+  .scarthrpic {
+    width: 130px;
+    height: 130px;
+  }
+  .scarthrpic img {
+    width: 100px;
+    height: 100px; 
+    border-radius: 50%;
+  }
+.scarthrpicbor {
+  position: relative;
+  top: 25px;
+  width: 130px;
+  height: 130px;
+}
+.scarthrpicplc {
+ width: 310px;
+ height: 180px;
+}
+.scarthrin {
+ width: 248px;
+ height: auto;
+ padding: 30px;
+ font-family: raleway;
+ font-size: 11px;
+ line-height: 15px;
+ text-align: justify;
+ color: #555;
+ font-weight: 500;
+}
+.scarthrin b {
+ font-weight: 700;
+ font-size: 13px;
+ padding-bottom: 1px;
+ padding-top: 1px;
+}
