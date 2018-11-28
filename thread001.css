@@ -35,8 +35,8 @@
  height: auto;
  padding: 30px;
  font-family: raleway;
- font-size: 11px;
- line-height: 15px;
+ font-size: 12px;
+ line-height: 20px;
  text-align: justify;
  color: #555;
  font-weight: 500;
@@ -44,6 +44,5 @@
 .scarthrin b {
  font-weight: 700;
  font-size: 13px;
- padding-bottom: 1px;
- padding-top: 1px;
+ padding: 4px 2px;
 }
