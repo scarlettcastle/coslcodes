@@ -12,7 +12,7 @@
  width: 240px;
  height: auto;
  padding: 40px;
- background: #fff;
+ background-color: #fff;
  border: 1px solid #ddd;
  border-radius: 3px;
 }
@@ -25,9 +25,8 @@
  border-radius: 3px;
 }
 .optionpic img {
- width: 218px;
+ width: 220px;
  height: auto;
- border: 1px solid #ddd;
  border-radius: 3px;
 }
 .optionthr {
