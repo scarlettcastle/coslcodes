@@ -1,33 +1,33 @@
-.lightoutcastall {
+.lightoutlawall {
  width: 310px;
  height: auto;
  padding: 30px;
  line-height: 100%;
 }
-.lightoutcastard {
+.lightoutlaward {
  width: 250px;
  height: auto;
  padding: 90px 30px 30px 30px;
  background-color: #ddd;
  overflow: hidden;
 }
-.lightoutcastin {
+.lightoutlawin {
  width: 248px;
  height: auto;
  border: 1px solid #ccc;
  background-color: #eee;
 }
-.lightoutcastpic {
+.lightoutlawpic {
  width: 120px;
  height: 120px;
  position: relative;
  top: -60px;
 }
-.lightoutcastpic img {
+.lightoutlawpic img {
  width: 80px;
  height: 80px;
 }
-.lightoutcastthr {
+.lightoutlawthr {
  width: 220px;
  height: auto;
  padding: 0px 15px;
@@ -40,10 +40,10 @@
  color: #666;
  font-weight: 500;
 }
-.lightoutcastthr b {
+.lightoutlawthr b {
   font-size: 13px;
   color: #333;
 }
-.lightoutcastthr i {
+.lightoutlawthr i {
   color: #333;
 }
