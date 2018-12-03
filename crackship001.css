@@ -1,0 +1,151 @@
+.rainleftin::-webkit-scrollbar { width: 2px; }
+.rainleftin::-webkit-scrollbar-track { background: #eee; }
+.rainleftin::-webkit-scrollbar-track-piece { background: #eee; }
+.rainleftin::-webkit-scrollbar-thumb { background: #ddd; }
+.rainrightin::-webkit-scrollbar { width: 2px; }
+.rainrightin::-webkit-scrollbar-track { background: #eee; }
+.rainrightin::-webkit-scrollbar-track-piece { background: #eee; }
+.rainrightin::-webkit-scrollbar-thumb { background: #ddd; }
+.rainall {
+ width: 504px;
+ height: auto;
+ padding: 5px;
+ background: #fafafa;
+ border: 1px solid #ddd;
+ border-radius: 3px;
+ line-height: 100%;
+ position: relative;
+}
+.rainard {
+ width: 422px;
+ height: auto;
+ padding: 40px;
+ background: #fff;
+ border: 1px solid #ddd;
+ border-radius: 3px;
+ background-image: url(https://k.nickpic.host/BGt30X.png);
+}
+.rainpost {
+ width: 360px;
+ height: auto;
+ min-height: 100px;
+ padding: 30px;
+ background: #fafafa;
+ border: 1px solid #ddd;
+ border-radius: 3px;
+ text-align: justify;
+ font-family: poppins;
+ font-size: 11px;
+ line-height: 18px;
+ color: #333;
+}
+.rainpost h1 {
+ text-align: right;
+ font-size: 26px;
+ padding-bottom: 5px;
+ border-bottom: 1px solid #ddd;
+}
+.rainpost i {
+  border-radius: 3px;
+  padding: 0px 3px;
+}
+.rainpost blockquote {
+ margin-left: 10px;
+ padding-left: 10px;
+ margin-right: 10px;
+ border-left: 1px solid #ddd;
+}
+.rainfac {
+ width: 360px;
+ height: auto;
+ min-height: 100px;
+ padding: 30px;
+ margin-top: 20px;
+ background: #fafafa;
+ border: 1px solid #ddd;
+ border-radius: 3px;
+ text-align: justify;
+ font-family: poppins;
+ font-size: 11px;
+ line-height: 18px;
+ color: #333;
+}
+.rainfac h2 {
+ text-align: left;
+ font-size: 23px;
+ padding-bottom: 5px;
+ border-bottom: 1px solid #ddd;
+}
+.rainfac h3 {
+ text-align: right;
+ font-size: 23px;
+ padding-bottom: 5px;
+ border-bottom: 1px solid #ddd;
+}
+.rainfac i {
+  border-radius: 3px;
+  padding: 0px 3px;
+}
+.raintbl {
+ width: 360px;
+ height: 100px;
+ overflow: auto;
+ padding: 3px;
+ background: #fff;
+ border: 1px solid #ddd;
+ border-radius: 3px;
+ text-align: justify;
+ font-family: poppins;
+ font-size: 11px;
+ line-height: 18px;
+ color: #333;
+}
+.rainleft {
+ vertical-align: top;
+}
+.rainleftin {
+ width: 150px;
+ height: 200px;
+ padding: 10px;
+ overflow: auto;
+}
+.rainright {
+ vertical-align: top;
+}
+.rainrightin {
+ width: 150px;
+ height: 200px;
+ padding: 10px;
+ overflow: auto;
+}
+.raintagsbg {
+  width: 410px;
+  height: auto;
+  padding: 5px;
+  background: #fff;
+  border: 1px solid #ddd;
+  border-radius: 3px;
+  margin-top: 40px;
+}
+.raintags {
+  width: 390px;
+  height: auto;
+  padding: 10px;
+  background: #fafafa;
+  border-radius: 3px;
+}
+.raintags p {
+ display: inline-block;
+ border-radius: 15px;
+ padding: 1px 5px;
+ margin-left: 2px;
+ margin-right: 2px;
+ font-family: poppins;
+ font-size: 9px;
+ line-height: 18px;
+ color: #333;
+}
+.raintags p a {
+  color: #333;
+  text-decoration: none;
+}
