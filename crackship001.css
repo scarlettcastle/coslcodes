@@ -1,12 +1,12 @@
-.rainleftin::-webkit-scrollbar { width: 2px; }
-.rainleftin::-webkit-scrollbar-track { background: #eee; }
-.rainleftin::-webkit-scrollbar-track-piece { background: #eee; }
-.rainleftin::-webkit-scrollbar-thumb { background: #ddd; }
-.rainrightin::-webkit-scrollbar { width: 2px; }
-.rainrightin::-webkit-scrollbar-track { background: #eee; }
-.rainrightin::-webkit-scrollbar-track-piece { background: #eee; }
-.rainrightin::-webkit-scrollbar-thumb { background: #ddd; }
-.rainall {
+.rushleftin::-webkit-scrollbar { width: 2px; }
+.rushleftin::-webkit-scrollbar-track { background: #eee; }
+.rushleftin::-webkit-scrollbar-track-piece { background: #eee; }
+.rushleftin::-webkit-scrollbar-thumb { background: #ddd; }
+.rushrightin::-webkit-scrollbar { width: 2px; }
+.rushrightin::-webkit-scrollbar-track { background: #eee; }
+.rushrightin::-webkit-scrollbar-track-piece { background: #eee; }
+.rushrightin::-webkit-scrollbar-thumb { background: #ddd; }
+.rushall {
  width: 504px;
  height: auto;
  padding: 5px;
@@ -16,7 +16,7 @@
  line-height: 100%;
  position: relative;
 }
-.rainard {
+.rushard {
  width: 422px;
  height: auto;
  padding: 40px;
@@ -25,7 +25,7 @@
  border-radius: 3px;
  background-image: url(https://k.nickpic.host/BGt30X.png);
 }
-.rainpost {
+.rushpost {
  width: 360px;
  height: auto;
  min-height: 100px;
@@ -39,23 +39,23 @@
  line-height: 18px;
  color: #333;
 }
-.rainpost h1 {
+.rushpost h1 {
  text-align: right;
  font-size: 26px;
  padding-bottom: 5px;
  border-bottom: 1px solid #ddd;
 }
-.rainpost i {
+.rushpost i {
   border-radius: 3px;
   padding: 0px 3px;
 }
-.rainpost blockquote {
+.rushpost blockquote {
  margin-left: 10px;
  padding-left: 10px;
  margin-right: 10px;
  border-left: 1px solid #ddd;
 }
-.rainfac {
+.rushfac {
  width: 360px;
  height: auto;
  min-height: 100px;
@@ -70,23 +70,23 @@
  line-height: 18px;
  color: #333;
 }
-.rainfac h2 {
+.rushfac h2 {
  text-align: left;
  font-size: 23px;
  padding-bottom: 5px;
  border-bottom: 1px solid #ddd;
 }
-.rainfac h3 {
+.rushfac h3 {
  text-align: right;
  font-size: 23px;
  padding-bottom: 5px;
  border-bottom: 1px solid #ddd;
 }
-.rainfac i {
+.rushfac i {
   border-radius: 3px;
   padding: 0px 3px;
 }
-.raintbl {
+.rushtbl {
  width: 360px;
  height: 100px;
  overflow: auto;
@@ -100,25 +100,25 @@
  line-height: 18px;
  color: #333;
 }
-.rainleft {
+.rushleft {
  vertical-align: top;
 }
-.rainleftin {
+.rushleftin {
  width: 150px;
  height: 200px;
  padding: 10px;
  overflow: auto;
 }
-.rainright {
+.rushright {
  vertical-align: top;
 }
-.rainrightin {
+.rushrightin {
  width: 150px;
  height: 200px;
  padding: 10px;
  overflow: auto;
 }
-.raintagsbg {
+.rushtagsbg {
   width: 410px;
   height: auto;
   padding: 5px;
@@ -127,14 +127,14 @@
   border-radius: 3px;
   margin-top: 40px;
 }
-.raintags {
+.rushtags {
   width: 390px;
   height: auto;
   padding: 10px;
   background: #fafafa;
   border-radius: 3px;
 }
-.raintags p {
+.rushtags p {
  display: inline-block;
  border-radius: 15px;
  padding: 1px 5px;
@@ -145,7 +145,7 @@
  line-height: 18px;
  color: #333;
 }
-.raintags p a {
+.rushtags p a {
   color: #333;
   text-decoration: none;
 }
