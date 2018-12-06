@@ -1,0 +1,103 @@
+.thunderall {
+ width: 374px;
+ height: auto;
+ padding: 5px;
+ background: #fafafa;
+ border: 1px solid #ddd;
+ border-radius: 3px;
+ line-height: 100%;
+ position: relative;
+}
+.thunderard {
+ width: 312px;
+ height: auto;
+ padding: 30px;
+ margin-top: 5px;
+ background: #fff;
+ border: 1px solid #ddd;
+ border-radius: 3px;
+ background-image: url(https://k.nickpic.host/BGt30X.png);
+}
+.thunderupbar {
+  width: 350px;
+  height: auto;
+  background: #fff;
+  padding: 0 10px;
+  border: 1px solid #ddd;
+  border-radius: 3px;
+  color: #aaa;
+  font-size: 11px;
+  line-height: 12px;
+  font-family: poppins;
+  text-align: center;
+}
+.thunderupbar left {
+  float: left;
+}
+.thunderupbar right {
+  float: right;
+}
+.thunderupl {
+ width: 300px;
+ height: 300px;
+ padding: 5px;
+ background: #fff;
+ border: 1px solid #ddd;
+ border-radius: 3px;
+}
+.thunderupl img {
+ width: 298px;
+ height: 298px;
+ border-radius: 3px;
+ border: 1px solid #ddd;
+}
+.thunderpostbg {
+ width: 300px;
+ height: 130px;
+ padding: 5px;
+ margin-top: 10px;
+ background: #fff;
+ border: 1px solid #ddd;
+ border-radius: 3px;
+}
+.thunderpost {
+ width: 240px;
+ height: 70px;
+ padding: 30px;
+ background: #fafafa;
+ border-radius: 3px;
+}
+.thungerusrpic {
+  width: 70px;
+  height: 70px;
+}
+.thungerusrpic img {
+ width: 60px;
+ height: 60px;
+ background: #fff;
+ padding: 5px;
+ border: 1px solid #ddd;
+ border-radius: 100%;
+}
+.thunderusrcp {
+ width: 160px;
+ height: 50px;
+ padding: 0 20px;
+ margin-top: -15px;
+ text-align: justify;
+ font-family: poppins;
+ font-size: 11px;
+ line-height: 13px;
+ color: #333;
+}
+.thunderusrcp h1 {
+ font-size: 14px;
+ margin: 1px;
+ padding-bottom:5px;
+ border-bottom: 1px solid #ddd;
+}
+.thunderusrcp i {
+  border-radius: 3px;
+  padding: 0px 3px;
+  font-style: normal;
+}
