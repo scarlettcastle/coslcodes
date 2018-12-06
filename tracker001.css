@@ -57,7 +57,7 @@
  line-height: 18px;
  color: #333;
 }
-.lightcharnm .far {
+.lightcharnm .fa-heart {
   font-size: 17px;
 }
 .lightcharnm:before {
@@ -73,7 +73,7 @@
  color: #999;
  font-weight: 200;
 }
-.lightcharpl .far {
+.lightcharpl .fa-heart {
   font-size: 12px;
 }
 .lightcharpl:before {
