@@ -1,0 +1,125 @@
+.rivermsg::-webkit-scrollbar { width: 2px; }
+.rivermsg::-webkit-scrollbar-track { background: #eee; }
+.rivermsg::-webkit-scrollbar-track-piece { background: #eee; }
+.rivermsg::-webkit-scrollbar-thumb { background: #ddd; }
+
+.riverall {
+ width: 212px;
+ height: 542px;
+ padding: 20px;
+ background: #fafafa;
+ border: 1px solid #ddd;
+ border-radius: 20px;
+ line-height: 100%;
+ color: #333;
+}
+.riverlin {
+ width: 100px;
+ height: 2px;
+ background: #ddd;
+}
+.riverbttn {
+ width: 30px;
+ height: 30px;
+ border: 2px solid #ddd;
+ border-radius: 100%;
+ margin-top: 10px;
+}
+.riverscrn {
+ width: 210px;
+ height: 480px;
+ background: #fff;
+ border: 1px solid #ddd;
+ border-radius: 3px;
+ margin-top: 20px;
+}
+.riverbar {
+ width: 190px;
+ height: 16px;
+ padding: 0 10px;
+ background: #fafafa;
+ font-family: poppins;
+ font-size: 8px;
+ line-height: 15px;
+ color: #bbb;
+}
+.riverbar right {
+ float: right; 
+}
+.riverbar left {
+ float: left; 
+}
+.riverbar .fas {
+  font-size: 10px;
+  padding: 2px 1px;
+}
+.riverusr {
+ width: 210px;
+ height: 120px;
+ background: #fff;
+ border-bottom: 1px solid #ddd;
+ background-image: url(https://k.nickpic.host/BGt30X.png);
+}
+.riverusrpic {
+ width: 100px;
+ height: 100px;
+ margin-top: 20px;
+}
+.riverusrpic img {
+ width: 80px;
+ height: 80px;
+ border-radius: 100%;
+}
+.riverusrname {
+ width: 210px;
+ height: auto;
+ border-bottom: 1px solid #ddd;
+ text-align: left;
+}
+.riverusrname theirs {
+ font-family: poppins;
+ font-weight: 700;
+ font-size: 23px;
+}
+.riverusrname .far {
+ font-size: 18px;
+ padding: 10px;
+}
+.rivermsg {
+ width: 190px;
+ height: 225px;
+ padding: 10px;
+ overflow: auto;
+ background: #fff;
+ font-family: poppins;
+ font-size: 10px;
+ line-height: 15px;
+}
+.rivermsg p {
+ max-width: 150px;
+ height: auto;
+ padding: 5px 10px;
+ text-align: left;
+ border-radius: 15px;
+ float: right;
+ clear: both;
+ margin: 5px 0;
+}
+.rivermsg img {
+ max-width: 150px; 
+}
+.riverwrt {
+ width: 210px;
+ height: auto;
+ border-top: 1px solid #ddd;
+ text-align: right;
+}
+.riverwrt yours {
+ font-family: poppins;
+ font-weight: 700;
+ font-size: 23px;
+}
+.riverwrt .far {
+ font-size: 18px;
+ padding: 10px;
+}
