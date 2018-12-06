@@ -1,0 +1,74 @@
+.fireard {
+ width: 322px;
+ height: auto;
+ padding: 5px;
+ background: #fafafa;
+ border: 1px solid #ddd;
+ border-radius: 3px;
+ line-height: 100%;
+}
+.fireall {
+ width: 320px;
+ height: auto;
+ background: #fff;
+ border: 1px solid #ddd;
+ border-radius: 3px;
+}
+.fireup {
+ width: 240px;
+ height: 120px;
+ padding: 40px;
+ background-image: url(https://k.nickpic.host/BGt30X.png); 
+}
+.fireup img {
+ width: 220px;
+ height: 120px;
+ padding: 5px;
+ background: #fff;
+ border: 1px solid #ddd;
+ border-radius: 3px;
+ object-fit: cover;
+}
+.firethr {
+ width: 240px;
+ height: auto;
+ min-height: 240px;
+ padding: 40px;
+ background: #fafafa;
+ border-top: 1px solid #ddd;
+ border-bottom: 1px solid #ddd;
+ border-radius: 3px;
+ text-align: justify;
+ font-family: poppins;
+ font-size: 11px;
+ line-height: 18px;
+ color: #333; 
+}
+.firethr b {
+  font-size: 13px;
+}
+.firethr i {
+  border-radius: 3px;
+  padding: 0px 3px;
+}
+.firetag {
+ width: 280px;
+ height: auto;
+ padding: 10px 20px;
+}
+.firetag p {
+ display: inline-block;
+ background: #fafafa;
+ border: 1px solid #ddd;
+ border-radius: 15px;
+ padding: 1px 5px;
+ margin: 5px 2px;
+ font-family: poppins;
+ font-size: 9px;
+ line-height: 18px;
+ color: #333;
+}
+.firetag p a {
+  color: #333;
+  text-decoration: none;
+}
