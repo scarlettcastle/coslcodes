@@ -5,7 +5,7 @@
 
 .riverall {
  width: 212px;
- height: 542px;
+ height: 562px;
  padding: 20px;
  background: #fafafa;
  border: 1px solid #ddd;
@@ -23,7 +23,7 @@
  height: 30px;
  border: 2px solid #ddd;
  border-radius: 100%;
- margin-top: 10px;
+ margin-top: 20px;
 }
 .riverscrn {
  width: 210px;
