@@ -136,6 +136,9 @@
  border: 1px solid #ddd;
  border-radius: 3px;
  margin: 2px;
+ -webkit-filter: grayscale(100%);
+ filter: grayscale(100%);
+ object-fit: cover;
 }
 .lightcharlin {
  width: 330px;
