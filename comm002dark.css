@@ -1,0 +1,164 @@
+.spiritmsgs::-webkit-scrollbar { width: 1px; }
+.spiritmsgs::-webkit-scrollbar-track { background: rgba(255, 255, 255, .1); }
+.spiritmsgs::-webkit-scrollbar-track-piece { background: rgba(255, 255, 255, .1); }
+.spiritmsgs::-webkit-scrollbar-thumb { background: rgba(255, 255, 255, .2); }
+.spiritphone {
+ width: 240px;
+ height: 530px;
+ padding: 10px;
+ background: #fafafa;
+ border: 1px solid #eee;
+ border-radius: 30px;
+ line-height: 100%;
+ position: relative;
+ color: #fff;
+}
+.spiritscreen {
+ width: 240px;
+ height: 530px;
+ border-radius: 20px;
+ overflow: hidden;
+}
+.spirittop {
+ width: 240px;
+ height: 120px;
+ background: rgba(255, 255, 255, .2);
+}
+.spiritbar {
+ width: 210px;
+ height: 10px;
+ padding: 5px 10px 10px 20px;
+}
+.spiritbar left {
+ float: left;
+ font-family: montserrat;
+ font-size: 9px;
+ color: #fff;
+ font-weight: 400;
+}
+.spiritbar right {
+ float: right;
+ font-size: 10px;
+color: #fff;
+}
+.spiritbar .fas {
+ color: #fff;
+ font-size: 9px;
+}
+.spiritmid {
+ position: absolute;
+ right: 0;
+ left: 0;
+ top: 10px;
+ margin: auto;
+ width: 140px;
+ height: 20px;
+ background: #fafafa;
+ border-bottom-right-radius: 15px;
+ border-bottom-left-radius: 15px;
+}
+.spirittop .fa-chevron-left {
+ color: #fff;
+ font-size: 15px;
+ padding-right: 5px;
+}
+.spirittop left2 {
+ position: absolute;
+ top: 40px;
+ left: 20px;
+ width: 150px;
+ font-family: montserrat;
+ font-size: 12px;
+ color: #fff;
+ text-align: left;
+}
+.spirittop right2 {
+ position: absolute;
+ top: 40px;
+ left: 190px;
+}
+.spirittop img {
+ width: 50px;
+ height: 50px;
+ border-radius: 100%;
+}
+.spirittop contact {
+ position: absolute;
+ top: 100px;
+ left: 20px;
+ font-family: montserrat;
+ font-size: 24px;
+ color: #fff;
+ font-weight: 600;
+ text-align: left;
+}
+.spirittop contact img {
+ width: auto;
+ height: auto;
+border-radius: 0;
+}
+.spiritmsgs {
+ width: 220px;
+ height: 330px;
+ padding: 10px;
+ overflow: auto;
+}
+.spiritmsgs p {
+ max-width: 180px;
+ height: auto;
+ padding: 10px;
+ background: rgba(255, 255, 255, .1);
+ float: right;
+ clear: both;
+ margin: 5px 0;
+ border-radius: 10px;
+ border-top-right-radius: 0;
+ font-family: montserrat;
+ color: #fff;
+ font-size: 11px;
+ font-weight: 300;
+ text-align: justify;
+}
+.spiritmsgs img {
+ max-width: 160px;
+}
+.spirittype {
+ width: 200px;
+ height: 20px;
+ padding: 20px;
+ background: rgba(255, 255, 255, .2);
+}
+.spiritwrt {
+ font-family: montserrat;
+ color: #eee;
+ font-size: 11px;
+ text-align: left;
+}
+.spiritwrt:before {
+ content: "Type message here...";
+ padding-right: 70px;
+}
+.spirittopbar {
+ position: absolute;
+ right: 0;
+ left: 0;
+ top: 15px;
+ margin: auto;
+ width: 70px;
+ height: 5px;
+ border-radius: 5px;
+ background: #eee;
+ z-index: 2;
+}
+.spiritbotbar {
+ position: absolute;
+ right: 0;
+ left: 0;
+ top: 530px;
+ margin: auto;
+ width: 130px;
+ height: 3px;
+ border-radius: 5px;
+ background: #ccc;
+ z-index: 2;
+}
