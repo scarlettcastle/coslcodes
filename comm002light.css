@@ -1,0 +1,164 @@
+.ghoulmsgs::-webkit-scrollbar { width: 1px; }
+.ghoulmsgs::-webkit-scrollbar-track { background: rgba(255, 255, 255, .1); }
+.ghoulmsgs::-webkit-scrollbar-track-piece { background: rgba(255, 255, 255, .1); }
+.ghoulmsgs::-webkit-scrollbar-thumb { background: rgba(255, 255, 255, .2); }
+.ghoulphone {
+ width: 240px;
+ height: 530px;
+ padding: 10px;
+ background: #fafafa;
+ border: 1px solid #eee;
+ border-radius: 30px;
+ line-height: 100%;
+ position: relative;
+ color: #333;
+}
+.ghoulscreen {
+ width: 240px;
+ height: 530px;
+ border-radius: 20px;
+ overflow: hidden;
+}
+.ghoultop {
+ width: 240px;
+ height: 120px;
+ background: rgba(255, 255, 255, .4);
+}
+.ghoulbar {
+ width: 210px;
+ height: 10px;
+ padding: 5px 10px 10px 20px;
+}
+.ghoulbar left {
+ float: left;
+ font-family: montserrat;
+ font-size: 9px;
+ color: #333;
+ font-weight: 400;
+}
+.ghoulbar right {
+ float: right;
+ font-size: 10px;
+color: #333;
+}
+.ghoulbar .fas {
+ color: #333;
+ font-size: 9px;
+}
+.ghoulmid {
+ position: absolute;
+ right: 0;
+ left: 0;
+ top: 10px;
+ margin: auto;
+ width: 140px;
+ height: 20px;
+ background: #fafafa;
+ border-bottom-right-radius: 15px;
+ border-bottom-left-radius: 15px;
+}
+.ghoultop .fa-chevron-left {
+ color: #333;
+ font-size: 15px;
+ padding-right: 5px;
+}
+.ghoultop left2 {
+ position: absolute;
+ top: 40px;
+ left: 20px;
+ width: 150px;
+ font-family: montserrat;
+ font-size: 12px;
+ color: #333;
+ text-align: left;
+}
+.ghoultop right2 {
+ position: absolute;
+ top: 40px;
+ left: 190px;
+}
+.ghoultop img {
+ width: 50px;
+ height: 50px;
+ border-radius: 100%;
+}
+.ghoultop contact {
+ position: absolute;
+ top: 100px;
+ left: 20px;
+ font-family: montserrat;
+ font-size: 24px;
+ color: #333;
+ font-weight: 600;
+ text-align: left;
+}
+.ghoultop contact img {
+ width: auto;
+ height: auto;
+border-radius: 0;
+}
+.ghoulmsgs {
+ width: 220px;
+ height: 330px;
+ padding: 10px;
+ overflow: auto;
+}
+.ghoulmsgs p {
+ max-width: 180px;
+ height: auto;
+ padding: 10px;
+ background: rgba(255, 255, 255, .3);
+ float: right;
+ clear: both;
+ margin: 5px 0;
+ border-radius: 10px;
+ border-top-right-radius: 0;
+ font-family: montserrat;
+ color: #333;
+ font-size: 11px;
+ font-weight: 300;
+ text-align: justify;
+}
+.ghoulmsgs img {
+ max-width: 160px;
+}
+.ghoultype {
+ width: 200px;
+ height: 20px;
+ padding: 20px;
+ background: rgba(255, 255, 255, .4);
+}
+.ghoulwrt {
+ font-family: montserrat;
+ color: #999;
+ font-size: 11px;
+ text-align: left;
+}
+.ghoulwrt:before {
+ content: "Type message here...";
+ padding-right: 70px;
+}
+.ghoultopbar {
+ position: absolute;
+ right: 0;
+ left: 0;
+ top: 15px;
+ margin: auto;
+ width: 70px;
+ height: 5px;
+ border-radius: 5px;
+ background: #eee;
+ z-index: 2;
+}
+.ghoulbotbar {
+ position: absolute;
+ right: 0;
+ left: 0;
+ top: 530px;
+ margin: auto;
+ width: 130px;
+ height: 3px;
+ border-radius: 5px;
+ background: #ccc;
+ z-index: 2;
+}
