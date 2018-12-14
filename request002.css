@@ -1,0 +1,113 @@
+.crownout {
+ width: 482px;
+ height: auto;
+ background: #fff;
+ border: 1px solid #ddd;
+ line-height: 100%;
+ padding: 3px;
+}
+.crownall {
+ width: 360px;
+ height: auto;
+ background: #f6f6f6;
+ padding: 60px;
+}
+.crowntit {
+ width: 360px;
+ height: auto;
+ padding: 60px 0 30px 0;
+ font-family: montserrat;
+ font-size: 30px;
+ color: #fff;
+ line-height: 30px;
+ text-shadow: 1px 0px 0 #ddd, -1px 0px 0 #ddd, 0px 1px 0 #ddd, 0px -1px 0 #ddd;
+}
+.crowntit2 {
+ width: 360px;
+ height: auto;
+ padding: 60px 0 60px 0;
+ font-family: montserrat;
+ font-size: 30px;
+ color: #fff;
+ line-height: 30px;
+ text-shadow: 1px 0px 0 #ddd, -1px 0px 0 #ddd, 0px 1px 0 #ddd, 0px -1px 0 #ddd;
+}
+.crowntit sub {
+ font-size: 20px;
+}
+.crowntit .th {
+ padding: 0 10px; 
+}
+.crownin {
+ width: 360px;
+ height: auto;
+ background: #fff;
+ border: 1px solid #ddd;
+ margin-top: 30px;
+}
+.crownsubtit {
+ width: 345px;
+ height: 16px;
+ padding: 15px 15px 15px 0;
+ background: #fafafa;
+ border-bottom: 1px solid #ddd;
+ text-align: right;
+ font-family: montserrat;
+ font-size: 14px;
+ color: #333;
+}
+.crownsubtit .th {
+ float: left;
+ width: 46px;
+ height: 33px;
+ padding-top: 13px;
+ margin-top: -15px;
+ font-size: 20px;
+ color: #fff;
+ text-align: center;
+}
+.crownsubtit2 {
+ width: 345px;
+ height: 16px;
+ padding: 15px 0 15px 15px;
+ background: #fafafa;
+ border-bottom: 1px solid #ddd;
+ text-align: left;
+ font-family: montserrat;
+ font-size: 14px;
+ color: #333;
+}
+.crownsubtit2 .th {
+ float: right;
+ width: 46px;
+ height: 33px;
+ padding-top: 13px;
+ margin-top: -15px;
+ font-size: 20px;
+ color: #fff;
+ text-align: center;
+}
+.crownthr {
+ width: 300px;
+ height: auto;
+ padding: 30px;
+ font-family: montserrat;
+ font-size: 11px;
+ line-height: 14px;
+ text-align: justify;
+ color: #333;
+}
+.crownthr b {
+ padding: 2px;
+ font-weight: 600;
+ font-size: 12px;
+}
+.crownthr blockquote {
+ margin: 10px 10px 10px 20px;
+ padding-left: 10px;
+}
+.crownthr hr {
+ height: 1px;
+ border: 3px solid #fff;
+ outline: 1px solid #eee;
+}
