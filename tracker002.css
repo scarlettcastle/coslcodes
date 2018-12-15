@@ -1,0 +1,235 @@
+.feathersdesc::-webkit-scrollbar { width: 2px; }
+.feathersdesc::-webkit-scrollbar-track { background: #eee; }
+.feathersdesc::-webkit-scrollbar-track-piece { background: #eee; }
+.feathersdesc::-webkit-scrollbar-thumb { background: #ddd; }
+.feathersdesc2::-webkit-scrollbar { width: 2px; }
+.feathersdesc2::-webkit-scrollbar-track { background: #eee; }
+.feathersdesc2::-webkit-scrollbar-track-piece { background: #eee; }
+.feathersdesc2::-webkit-scrollbar-thumb { background: #ddd; }
+.feathersout {
+ width: 462px;
+ height: auto;
+ background: #fff;
+ border: 1px solid #ddd;
+ line-height: 100%;
+ padding: 3px;
+}
+.feathersall {
+ width: 340px;
+ height: auto;
+ background: #f6f6f6;
+ padding: 60px;
+}
+.featherstit {
+ width: 340px;
+ height: auto;
+ padding: 60px 0 30px 0;
+ font-family: montserrat;
+ font-size: 30px;
+ color: #fff;
+ line-height: 30px;
+ text-shadow: 1px 0px 0 #ddd, -1px 0px 0 #ddd, 0px 1px 0 #ddd, 0px -1px 0 #ddd;
+}
+.featherstit2 {
+ width: 340px;
+ height: auto;
+ padding: 60px 0 60px 0;
+ font-family: montserrat;
+ font-size: 30px;
+ color: #fff;
+ line-height: 30px;
+ text-shadow: 1px 0px 0 #ddd, -1px 0px 0 #ddd, 0px 1px 0 #ddd, 0px -1px 0 #ddd;
+}
+.featherstit sub {
+ font-size: 20px;
+}
+.featherstit .th {
+ padding: 0 10px; 
+}
+.feathersin {
+ width: 340px;
+ height: auto;
+ background: #fff;
+ border: 1px solid #ddd;
+ margin-top: 30px;
+}
+.featherssubtit {
+ width: 325px;
+ height: auto;
+ padding: 15px 15px 15px 0;
+ background: #fafafa;
+ border-bottom: 1px solid #ddd;
+ text-align: right;
+ font-family: montserrat;
+ font-size: 14px;
+ color: #333;
+ line-height: 16px;
+}
+.featherssubtit you {
+ font-weight: 600;
+}
+.featherssubtit .th-heart-1-o {
+ font-size: 12px;
+ font-weight: 400;
+ text-shadow: 0 0 0;
+}
+.featherssubtit .th-heart-1 {
+ float: left;
+ width: 46px;
+ height: 33px;
+ padding-top: 13px;
+ margin-top: -15px;
+ font-size: 20px;
+ color: #fff;
+ text-align: center;
+}
+.featherssubtit2 {
+ width: 325px;
+ height: auto;
+ padding: 15px 0 15px 15px;
+ background: #fafafa;
+ border-bottom: 1px solid #ddd;
+ text-align: left;
+ font-family: montserrat;
+ font-size: 14px;
+ color: #333;
+ line-height: 16px;
+}
+.featherssubtit2 you {
+ font-weight: 600;
+}
+.featherssubtit2 .th-heart-1-o {
+ font-size: 12px;
+ font-weight: 400;
+ text-shadow: 0 0 0;
+}
+.featherssubtit2 .th-heart-1 {
+ float: right;
+ width: 46px;
+ height: 33px;
+ padding-top: 13px;
+ margin-top: -15px;
+ font-size: 20px;
+ color: #fff;
+ text-align: center;
+}
+.feathersthr {
+ width: 250px;
+ height: auto;
+ padding: 30px;
+ font-family: montserrat;
+ font-size: 11px;
+ line-height: 14px;
+ text-align: justify;
+ color: #333;
+}
+.featherstbl {
+ width: 250px;
+ height: 120px;
+ border: 0;
+ padding: 0;
+}
+.featherstr {
+ border: 0;
+ padding: 0;
+}
+.featherstd {
+ border: 0;
+ padding: 0;
+}
+.feathersdesc {
+ width: 178px;
+ height: 58px;
+ padding: 5px;
+ border: 1px solid #eee;
+ font-size: 11px;
+ line-height: 12px;
+ color: #333;
+ margin-left: -5px;
+ text-align: justify;
+ overflow: auto;
+}
+.feathersdesc b {
+ font-weight: 600;
+ font-size: 12px;
+}
+.feathersdesc i {
+ padding: 1px;
+}
+.featherslinks {
+ width: 178px;
+ height: 38px;
+ padding: 5px;
+ text-align: center;
+ margin-left: -5px;
+}
+.featherslinks a {
+ text-decoration: none;
+ color: #333;
+ font-size: 10px;
+ padding: 1px;
+ line-height: 20px;
+}
+.featherspics {
+ width: 60px;
+ height: 120px;
+ margin-top: -15px;
+ margin-left: 5px;
+}
+.featherspics img {
+ width: 55px;
+ height: 55px;
+ border: 2px solid #fafafa;
+ outline: 1px solid #ddd;
+ -webkit-filter: grayscale(100%);
+ filter: grayscale(100%);
+ object-fit: cover;
+}
+.feathersdesc2 {
+ width: 178px;
+ height: 58px;
+ padding: 5px;
+ border: 1px solid #eee;
+ font-size: 11px;
+ line-height: 12px;
+ color: #333;
+ margin-left: 5px;
+ text-align: justify;
+ overflow: auto;
+}
+.feathersdesc2 b {
+ font-weight: 600;
+ font-size: 12px;
+}
+.feathersdesc2 i {
+ padding: 1px;
+}
+.featherslinks2 {
+ width: 178px;
+ height: 38px;
+ padding: 5px;
+ text-align: center;
+ margin-left: 5px;
+}
+.featherslinks2 a {
+ text-decoration: none;
+ color: #333;
+ font-size: 10px;
+ padding: 1px;
+ line-height: 20px;
+}
+.featherspics2 {
+ width: 60px;
+ height: 120px;
+ margin-top: -15px;
+ margin-left: -5px;
+}
+.featherspics2 img {
+ width: 55px;
+ height: 55px;
+ border: 2px solid #fafafa;
+ outline: 1px solid #ddd;
+ -webkit-filter: grayscale(100%);
+ filter: grayscale(100%);
+ object-fit: cover;
+}
