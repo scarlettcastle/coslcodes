@@ -1,0 +1,263 @@
+/** CODED BY SCARLETT FOR FAE **/
+
+
+@font-face {
+  font-family: 'typicons';
+  src: url("https://files.jcink.net/uploads/scarlettcodes/typicons.eot");
+  src: url("https://files.jcink.net/uploads/scarlettcodes/typicons.eot?#iefix") format('embedded-opentype'),
+       url("https://files.jcink.net/uploads/scarlettcodes/typicons.woff") format('woff'),
+       url("https://files.jcink.net/uploads/scarlettcodes/typicons.ttf") format('truetype'),
+       url("https://files.jcink.net/uploads/scarlettcodes/typicons.svg#typicons") format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.faethr1-1a {
+ width: 304px;
+ height: auto;
+ padding: 10px;
+ background: #fafafa;
+ line-height: 100%;
+}
+.faethr1-1b {
+ width: 262px;
+ height: auto;
+ padding: 20px;
+ background: #fefefe;
+ border: 1px solid #ddd;
+}
+.faethr1-2a {
+ width: 258px;
+ height: 158px;
+ padding-top: 30px;
+}
+.faethr1-2a img {
+ width: 180px;
+ height: 110px;
+ padding: 10px;
+ object-fit: cover;
+}
+.faethr1-3a {
+ width: 220px;
+ height: auto;
+ padding: 20px;
+ margin-top: 20px;
+ background: #fff;
+ border: 1px solid #eee;
+ border-bottom: 0;
+ font-family: poppins;
+ font-size: 11px;
+ line-height: 18px;
+ text-align: justify;
+ color: #333;
+}
+.faethr1-3a b {
+ font-size: 13px;
+}
+.faethr1-3a i {
+ padding: 0 3px;
+}
+.faethr1-3b {
+ width: 262px;
+ height: auto;
+ padding: 10px 0;
+ color: #fff;
+ font-family: poppins;
+ font-size: 13px;
+ line-height: 20px;
+ text-align: center;
+}
+.faethr1-3b a {
+ text-decoration: none;
+ color: #fff;
+}
+.faethr1-3b .typcn {
+ font-size: 20px;
+}
+.faethr2-1a {
+ width: 304px;
+ height: auto;
+ padding: 10px;
+ background: #fafafa;
+ line-height: 100%;
+}
+.faethr2-1b {
+ width: 262px;
+ height: auto;
+ padding: 20px;
+ background: #fefefe;
+ border: 1px solid #ddd;
+}
+.faethr2-2a {
+ width: 258px;
+ height: 158px;
+ padding-top: 30px;
+}
+.faethr2-2a img {
+ width: 110px;
+ height: 110px;
+ padding: 10px;
+ border-radius: 100%;
+ object-fit: cover;
+}
+.faethr2-3a {
+ width: 220px;
+ height: auto;
+ padding: 20px;
+ margin-top: 20px;
+ background: #fff;
+ border: 1px solid #eee;
+ border-bottom: 0;
+ font-family: poppins;
+ font-size: 11px;
+ line-height: 18px;
+ text-align: justify;
+ color: #333;
+}
+.faethr2-3a b {
+ font-size: 13px;
+}
+.faethr2-3a i {
+ padding: 0 3px;
+}
+.faethr2-3b {
+ width: 262px;
+ height: auto;
+ padding: 10px 0;
+ color: #fff;
+ font-family: poppins;
+ font-size: 13px;
+ line-height: 20px;
+ text-align: center;
+}
+.faethr2-3b a {
+ text-decoration: none;
+ color: #fff;
+}
+.faethr2-3b .typcn {
+ font-size: 20px;
+}
+.faereq-1a {
+ width: 372px;
+ height: auto;
+ padding: 10px;
+ background: #fafafa;
+ line-height: 100%;
+}
+.faereq-1b {
+ width: 330px;
+ height: auto;
+ padding: 20px;
+ background: #fefefe;
+ border: 1px solid #ddd;
+}
+.faereq-2a {
+ width: 270px;
+ height: auto;
+ padding: 80px 30px;
+ font-family: poppins;
+ font-size: 25px;
+ line-height: 26px;
+ font-weight: 800;
+ color: #fff;
+ letter-spacing: 1px;
+}
+.faereq-2b {
+ width: 288px;
+ height: auto;
+ padding: 20px;
+ background: #fff;
+ border: 1px solid #eee;
+ border-top: 0;
+ font-family: poppins;
+ font-size: 11px;
+ line-height: 15px;
+ text-align: justify;
+}
+.faereq-2b b {
+ font-size: 13px;
+}
+.faereq-2b i {
+ padding: 0 3px;
+}
+.faereq-brk {
+ width: 330px;
+ height: 20px;
+ border-bottom: 1px solid #eee;
+}
+.faereq-3a {
+ width: 330px;
+ height: auto;
+ background: #fff;
+ margin-top: 20px;
+}
+.faereq-3b {
+ width: 310px;
+ height: auto;
+ padding: 10px;
+ color: #fff;
+ font-family: poppins;
+ font-size: 13px;
+ line-height: 20px;
+ font-weight: 600;
+ text-align: right; 
+}
+.faereq-3b .typcn {
+ font-size: 20px;
+ float: left;
+}
+.faereq-3c {
+ width: 288px;
+ height: auto;
+ padding: 20px;
+ border: 1px solid #eee;
+ border-top: 0;
+ font-family: poppins;
+ font-size: 11px;
+ line-height: 15px;
+ text-align: justify;
+}
+.faereq-3c b {
+ font-size: 13px;
+}
+.faereq-3c i {
+ padding: 0 3px;
+}
+.faereq-4a {
+ width: 330px;
+ height: auto;
+ background: #fff;
+ margin-top: 20px;
+}
+.faereq-4b {
+ width: 310px;
+ height: auto;
+ padding: 10px;
+ color: #fff;
+ font-family: poppins;
+ font-size: 13px;
+ line-height: 20px;
+ font-weight: 600;
+ text-align: left; 
+}
+.faereq-4b .typcn {
+ font-size: 20px;
+ float: right;
+}
+.faereq-4c {
+ width: 288px;
+ height: auto;
+ padding: 20px;
+ border: 1px solid #eee;
+ border-top: 0;
+ font-family: poppins;
+ font-size: 11px;
+ line-height: 15px;
+ text-align: justify;
+}
+.faereq-4c b {
+ font-size: 13px;
+}
+.faereq-4c i {
+ padding: 0 3px;
+}
