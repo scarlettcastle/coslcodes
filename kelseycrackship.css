@@ -1,0 +1,241 @@
+/** CODED BY SCARLETT FOR KELSEY **/
+
+.kels-crck-2a-a::-webkit-scrollbar { width: 3px; }
+.kels-crck-2a-a::-webkit-scrollbar-track { background: #eee; }
+.kels-crck-2a-a::-webkit-scrollbar-track-piece { background: #eee; border: 1px solid #fff; }
+.kels-crck-2b-a::-webkit-scrollbar { width: 3px; }
+.kels-crck-2b-a::-webkit-scrollbar-track { background: #eee; }
+.kels-crck-2b-a::-webkit-scrollbar-track-piece { background: #eee; border: 1px solid #fff; }
+.kels-crck-2c-a::-webkit-scrollbar { width: 3px; }
+.kels-crck-2c-a::-webkit-scrollbar-track { background: #eee; }
+.kels-crck-2c-a::-webkit-scrollbar-track-piece { background: #eee; border: 1px solid #fff; }
+.kels-crck-3a-a::-webkit-scrollbar { width: 3px; }
+.kels-crck-3a-a::-webkit-scrollbar-track { background: #eee; }
+.kels-crck-3a-a::-webkit-scrollbar-track-piece { background: #eee; border: 1px solid #fff; }
+
+.kels-crck-1a {
+ width: 504px;
+ height: 454px;
+ padding: 10px;
+ background: #fafafa;
+ border: 1px solid #ddd;
+ line-height: 100%;
+}
+.kels-crck-1b {
+ width: 492px;
+ height: 442px;
+ padding: 5px;
+ border: 1px solid #fff;
+}
+.kels-crck-1c {
+ width: 470px;
+ height: 420px;
+ padding: 10px;
+ background: #fafafa;
+ border: 1px solid #fff;
+}
+.kels-crck-2tbl {
+ width: 470px;
+ height: 420px;
+}
+.kels-crck-2td1 {
+ width: 330px;
+ height: 300px;
+}
+.kels-crck-2td2 {
+ width: 165px;
+ height: 300px;
+}
+.kels-crck-2td3 {
+ width: 165px;
+ height: 300px;
+}
+.kels-crck-2td4 {
+ width: 140px;
+ height: 420px;
+}
+.kels-crck-2aa {
+ width: 137px;
+ height: 68px;
+ padding: 10px;
+ margin-top: 5px;
+ background: #fff;
+ border: 1px solid #eee;
+}
+.kels-crck-2aa img {
+ width: 127px;
+ height: 58px;
+ object-fit: cover;
+}
+.kels-crck-2a {
+ width: 147px;
+ height: 198px;
+ padding: 5px;
+ background: #fefefe;
+ border: 1px solid #eee;
+}
+.kels-crck-2a-a {
+ width: 142px;
+ height: 193px;
+ padding-right: 5px;
+ overflow: auto;
+ font-family: poppins;
+ font-size: 10px;
+ line-height: 15px;
+ text-align: justify;
+ color: #444;
+}
+.kels-crck-2a-a h1 {
+ font-family: space mono;
+ font-size: 25px;
+ letter-spacing: 2px;
+ font-weight: 700;
+}
+.kels-crck-2a-a b {
+ font-family: space mono;
+ font-size: 13px;
+ text-shadow: 1px 0px 0 #fff, -1px 0px 0 #fff, 0px 1px 0 #fff, 0px -1px 0 #fff;
+}
+.kels-crck-2a-a i {
+ font-family: space mono;
+ font-size: 10px;
+}
+.kels-crck-2b {
+ width: 147px;
+ height: 198px;
+ padding: 5px;
+ margin-top: 5px;
+ background: #fefefe;
+ border: 1px solid #eee;
+}
+.kels-crck-2b-a {
+ width: 142px;
+ height: 193px;
+ padding-right: 5px;
+ overflow: auto;
+ font-family: poppins;
+ font-size: 10px;
+ line-height: 15px;
+ text-align: justify;
+ color: #444;
+}
+.kels-crck-2b-a h1 {
+ font-family: space mono;
+ font-size: 25px;
+ letter-spacing: 2px;
+ font-weight: 700;
+}
+.kels-crck-2b-a b {
+ font-family: space mono;
+ font-size: 13px;
+ text-shadow: 1px 0px 0 #fff, -1px 0px 0 #fff, 0px 1px 0 #fff, 0px -1px 0 #fff;
+}
+.kels-crck-2b-a i {
+ font-family: space mono;
+ font-size: 10px;
+}
+.kels-crck-2bb {
+ width: 137px;
+ height: 68px;
+ padding: 10px;
+ background: #fff;
+ border: 1px solid #eee;
+}
+.kels-crck-2bb img {
+ width: 127px;
+ height: 58px;
+ object-fit: cover;
+}
+.kels-crck-2c {
+ width: 313px;
+ height: 98px;
+ padding: 5px;
+ margin-top: 5px;
+ background: #fefefe;
+ border: 1px solid #eee;
+}
+.kels-crck-2c-a {
+ width: 308px;
+ height: 98px;
+ padding-right: 5px;
+ overflow: auto;
+ font-family: poppins;
+ font-size: 10px;
+ line-height: 15px;
+ text-align: justify;
+ color: #444;
+}
+.kels-crck-2c-a h1 {
+ font-family: space mono;
+ font-size: 25px;
+ letter-spacing: 2px;
+ font-weight: 700;
+}
+.kels-crck-2c-a b {
+ font-family: space mono;
+ font-size: 13px;
+ text-shadow: 1px 0px 0 #fff, -1px 0px 0 #fff, 0px 1px 0 #fff, 0px -1px 0 #fff;
+}
+.kels-crck-2c-a i {
+ font-family: space mono;
+ font-size: 10px;
+}
+.kels-crck-3a {
+ width: 118px;
+ height: 158px;
+ padding: 10px;
+ background: #fefefe;
+}
+.kels-crck-3a-a {
+ width: 118px;
+ height: 158px;
+ padding-right: 5px;
+ overflow: auto;
+ font-family: poppins;
+ font-size: 10px;
+ line-height: 15px;
+ text-align: justify;
+ color: #666;
+}
+.kels-crck-3a-a b {
+ font-family: space mono;
+ font-size: 13px;
+ text-shadow: 1px 0px 0 #fff, -1px 0px 0 #fff, 0px 1px 0 #fff, 0px -1px 0 #fff;
+}
+.kels-crck-3a-a i {
+ font-family: space mono;
+ font-size: 10px;
+}
+.kels-crck-3b {
+ width: 140px;
+ height: 50px;
+ font-family: space mono;
+ font-size: 30px;
+ letter-spacing: 2px;
+ text-align: justify;
+ color: #fff;
+ text-align: center;
+ font-weight: 700;
+}
+.kels-crck-3c {
+ width: 138px;
+ height: 50px;
+ background: #fefefe;
+ font-family: space mono;
+ font-size: 15px;
+ line-height: 23px;
+ text-align: justify;
+ text-align: center;
+ font-weight: 700;
+}
+.kels-crck-3d {
+ width: 110px;
+ height: 110px;
+ padding: 15px;
+}
+.kels-crck-3d img {
+ width: 100px;
+ height: 100px;
+ border: 5px solid #fff;
+ object-fit: cover;
+}
