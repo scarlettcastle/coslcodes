@@ -1,0 +1,183 @@
+/** CODED BY SCARLETT FOR KELSEY **/
+
+@font-face {
+  font-family: 'typicons';
+  src: url("https://files.jcink.net/uploads/scarlettcodes/typicons.eot");
+  src: url("https://files.jcink.net/uploads/scarlettcodes/typicons.eot?#iefix") format('embedded-opentype'),
+       url("https://files.jcink.net/uploads/scarlettcodes/typicons.woff") format('woff'),
+       url("https://files.jcink.net/uploads/scarlettcodes/typicons.ttf") format('truetype'),
+       url("https://files.jcink.net/uploads/scarlettcodes/typicons.svg#typicons") format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.kels-trck-2-pl::-webkit-scrollbar { width: 3px; }
+.kels-trck-2-pl::-webkit-scrollbar-track { background: #eee; }
+.kels-trck-2-pl::-webkit-scrollbar-track-piece { background: #eee; border: 1px solid #fff; }
+.kels-trck-2-li::-webkit-scrollbar { width: 3px; }
+.kels-trck-2-li::-webkit-scrollbar-track { background: #eee; }
+.kels-trck-2-li::-webkit-scrollbar-track-piece { background: #eee; border: 1px solid #fff; }
+
+.kels-trck-1a {
+ width: 464px;
+ height: auto;
+ padding: 10px;
+ background: #fafafa;
+ border: 1px solid #ddd;
+ line-height: 100%;
+}
+.kels-trck-1b {
+ width: 452px;
+ height: auto;
+ padding: 5px;
+ border: 1px solid #fff;
+}
+.kels-trck-1c {
+ width: 430px;
+ height: auto;
+ padding: 10px;
+ background: #fafafa;
+ border: 1px solid #fff;
+}
+.kels-trck-2a {
+ width: 388px;
+ height: auto;
+ padding: 25px 20px;
+ border: 1px solid #fff;
+ border-bottom: 0;
+ font-family: space mono;
+ font-size: 35px;
+ line-height: 45px;
+ letter-spacing: 2px;
+ color: #fff;
+ text-align: center;
+ font-weight: 700;
+}
+.kels-trck-2a-a {
+ width: 426px;
+ height: auto;
+ padding: 2px 0;
+ background: #fefefe;
+ border-top: 0;
+ font-family: poppins;
+ font-size: 10px;
+ line-height: 15px;
+ color: #444;
+}
+.kels-trck-2a-a .typcn {
+ padding: 0 5px;
+}
+.kels-trck-2b {
+ width: 428px;
+ height: auto;
+ background: #fefefe;
+}
+.kels-trck-2b-a {
+ width: 348px;
+ height: 170px;
+ padding: 30px;
+}
+.kels-trck-2tbl {
+ width: 348px;
+ height: 170px;
+}
+.kels-trck-2tbl1 {
+ width: 268px;
+ height: 170px;
+}
+.kels-trck-2tbl2 {
+ width: 80px;
+ height: 170px;
+}
+.kels-trck-2-nm {
+ margin-left: -20px;
+ width: 268px;
+ height: 40px;
+ text-align: center;
+ line-height: 20px;
+}
+.kels-trck-2-nm shipnm {
+ font-family: space mono;
+ font-size: 18px;
+ letter-spacing: 2px;
+ color: #444;
+}
+.kels-trck-2-nm facenm {
+ font-family: space mono;
+ font-size: 12px;
+ letter-spacing: 2px;
+ color: #444;
+}
+.kels-trck-2-nm facenm:before {
+ content: "<";
+}
+.kels-trck-2-nm facenm:after {
+ content: ">";
+}
+.kels-trck-2-pl {
+ margin-left: -20px;
+ width: 246px;
+ height: 48px;
+ padding: 10px;
+ overflow: auto;
+ background: #fff;
+ border: 1px solid #eee;
+ font-family: poppins;
+ font-size: 10px;
+ line-height: 15px;
+ color: #444;
+ text-align: justify;
+}
+.kels-trck-2-pl b {
+ font-family: space mono;
+ font-size: 13px;
+ text-shadow: 1px 0px 0 #fff, -1px 0px 0 #fff, 0px 1px 0 #fff, 0px -1px 0 #fff;
+}
+.kels-trck-2-pl i {
+ font-family: space mono;
+ font-size: 10px;
+}
+.kels-trck-2-li {
+ margin-left: -20px;
+ width: 236px;
+ height: 18px;
+ margin-top: 10px;
+ padding: 15px;
+ overflow: auto;
+ background: #fafafa;
+ border: 1px solid #eee;
+ font-family: poppins;
+ font-size: 9px;
+ line-height: 15px;
+ color: #444;
+ text-align: justify;
+}
+.kels-trck-2-li a {
+ text-decoration: underline;
+ text-transform: uppercase;
+ letter-spacing: 1px;
+ text-shadow: 1px 0px 0 #fff, -1px 0px 0 #fff, 0px 1px 0 #fff, 0px -1px 0 #fff;
+}
+.kels-trck-2-img1 {
+ margin-left: 20px;
+ width: 70px;
+ height: 70px;
+ padding: 5px;
+}
+.kels-trck-2-img1 img {
+ width: 60px;
+ height: 60px;
+ border: 5px solid #fff;
+}
+.kels-trck-2-img2 {
+ margin-left: 20px;
+ margin-top: 10px;
+ width: 70px;
+ height: 70px;
+ padding: 5px;
+}
+.kels-trck-2-img2 img {
+ width: 60px;
+ height: 60px;
+ border: 5px solid #fff;
+}
