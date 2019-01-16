@@ -1,0 +1,139 @@
+.comm-03-1::-webkit-scrollbar { width: 1px; }
+.comm-03-1::-webkit-scrollbar-track { background: #eee; }
+.comm-03-1::-webkit-scrollbar-track-piece { background: #fff; }
+.comm-03-1::-webkit-scrollbar-thumb { background: #eee; }
+
+.comm-01 {
+ width: 230px;
+ height: 495px;
+ background: #fefefe;
+ border: 1px solid #ddd;
+ border-radius: 15px;
+ line-height: 100%;
+}
+.comm-01-1 {
+ width: 80px;
+ height: 2px;
+ border: 1px solid #ddd;
+ border-radius: 2px;
+ margin-top: 15px;
+}
+.comm-02-1 {
+ width: 210px;
+ height: 20px;
+ padding: 8px 10px;
+ margin-top: 15px;
+ background: #fcfcfc;
+ border-top: 1px solid #ddd;
+ font-family: raleway;
+ font-size: 9px;
+ text-shadow: 1px 0px 0 #fff, -1px 0px 0 #fff, 0px 1px 0 #fff, 0px -1px 0 #fff;
+ line-height: 20px;
+}
+.comm-02-1 left {
+ float: left;
+}
+.comm-02-1 right {
+ float: right;
+}
+.comm-02-2 {
+ width: 230px;
+ height: 90px;
+ margin-left: -1px;
+}
+.comm-tbl {
+ width: 228px;
+ height: 90px;
+}
+.comm-tbl1 {
+ width: 90px;
+ height: 90px;
+ text-align: center;
+}
+.comm-tbl1 img {
+ width: 60px;
+ height: 60px;
+ background: #fff;
+ padding: 5px;
+ margin-top: 10px;
+ object-fit: cover;
+}
+.comm-tbl2 {
+ width: 138px;
+ height: 70px;
+ padding-top: 20px;
+ font-family: raleway;
+ font-size: 11px;
+ color: #fff;
+ line-height: 15px;
+ text-align: center;
+}
+.comm-tbl2 you {
+ font-size: 11px;
+ letter-spacing: 1px;
+ font-weight: 600;
+ text-transform: uppercase;
+}
+.comm-tbl2 them {
+ text-transform: uppercase;
+ font-size: 16px;
+ font-weight: 700;
+ letter-spacing: 1px;
+}
+.comm-03 {
+ width: 210px;
+ height: 210px;
+ padding: 10px;
+ background: #fdedede;
+ border-bottom: 1px solid #ddd;
+}
+.comm-03-1 {
+ width: 190px;
+ height: 190px;
+ padding: 10px;
+ font-family: raleway;
+ font-size: 10px;
+ overflow: auto;
+}
+.comm-03 p {
+ max-width: 170px;
+ height: auto;
+ background: #fff;
+ border: 1px solid #ddd;
+ border-radius: 10px;
+ padding: 8px;
+ float: right;
+ clear: both;
+ margin: 4px;
+ text-align: left;
+}
+.comm-03 p img {
+ width: 154px;
+ height: auto;
+}
+.comm-031 {
+ width: 210px;
+ height: 20px;
+ padding: 8px 10px;
+ background: #fcfcfc;
+ border-bottom: 1px solid #ddd;
+ font-family: raleway;
+ font-size: 9px;
+ text-shadow: 1px 0px 0 #fff, -1px 0px 0 #fff, 0px 1px 0 #fff, 0px -1px 0 #fff;
+ line-height: 20px;
+}
+.comm-031 typ {
+ float: left;
+}
+.comm-031 snd {
+ float: right;
+ margin-top: 4px;
+ font-size: 13px;
+}
+.comm-01-2 {
+ width: 30px;
+ height: 30px;
+ border: 1px solid #ddd;
+ border-radius: 100%;
+ margin-top: 15px;
+}
