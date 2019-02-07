@@ -261,3 +261,118 @@
 .faereq-4c i {
  padding: 0 3px;
 }
+
+.fae-comm-05::-webkit-scrollbar { width: 3px; }
+.fae-comm-05::-webkit-scrollbar-track { background: #fefefe; }
+.fae-comm-05::-webkit-scrollbar-track-piece { background: #fefefe; }
+.fae-comm-05::-webkit-scrollbar-thumb { background: #eee; }
+
+.fae-comm-01 {
+ width: 230px;
+ height: 540px;
+ background: #fafafa;
+ border-radius: 20px;
+ line-height: 100%;
+}
+.fae-comm-01-1 {
+ width: 100px;
+ height: 2px;
+ border: 1px solid #ddd;
+ border-radius: 5px;
+ margin-top: 15px;
+}
+.fae-comm-02 {
+ width: 230px;
+ height: 448px;
+ background: #fefefe;
+ border-top: 1px solid #ddd;
+ border-bottom: 1px solid #ddd;
+ margin-top: 15px;
+}
+.fae-comm-03 {
+ width: 210px;
+ height: auto;
+ padding: 3px 10px 5px 10px;
+ background: #fefefe;
+ font-size: 13px;
+ text-shadow: 1px 0px 0 #fff, -1px 0px 0 #fff, 0px 1px 0 #fff, 0px -1px 0 #fff; 
+}
+.fae-comm-03 left { float: left; }
+.fae-comm-03 right { float: right; }
+.fae-comm-04 {
+ width: 210px;
+ height: auto;
+ padding: 15px 10px;
+ line-height: 10px;
+}
+.fae-comm-04 img {
+ width: 70px;
+ height: 70px;
+ border-radius: 100%;
+ padding: 5px;
+ border: 1px solid #ddd;
+ object-fit: cover;
+}
+.fae-comm-04 them {
+ font-family: poppins;
+ font-size: 13px;
+ color: #fff;
+}
+.fae-comm-04 them:before {
+ content: 'messaging: ';
+ font-size: 9px;
+ text-transform: uppercase;
+}
+.fae-comm-04 you {
+ font-family: poppins;
+ font-size: 20px;
+ font-weight: 500;
+ color: #fff;
+}
+.fae-comm-05 {
+ width: 200px;
+ height: 215px;
+ padding: 10px 5px 15px 15px;
+ font-family: poppins;
+ font-size: 11px;
+ color: #666;
+ overflow: auto;
+}
+.fae-comm-05 p {
+ height: auto;
+ max-width: 170px;
+ padding: 7px;
+ float: right;
+ clear: both;
+ margin: 3px 0;
+ background: #fff;
+ border: 1px solid #ddd;
+ border-radius: 10px;
+ border-top-right-radius: 0;
+ text-align: justify;
+}
+.fae-comm-05 p img {
+ max-width: 155px; 
+}
+.fae-comm-06 {
+ width: 210px;
+ height: 19px;
+ padding: 0 10px 0 10px;
+ font-family: poppins;
+ font-size: 10px;
+ text-align: left;
+ line-height: 31px;
+ letter-spacing: 1px;
+ border-top: 1px solid #ddd;
+}
+.fae-comm-06 right {
+ float: right;
+ font-size: 15px;
+}
+.fae-comm-07 {
+ width: 30px;
+ height: 30px;
+ border: 1px solid #ddd;
+ border-radius: 100%;
+ margin-top: 25px;
+}
