@@ -269,7 +269,7 @@
 
 .fae-comm-01 {
  width: 230px;
- height: 540px;
+ height: 500px;
  background: #fafafa;
  border-radius: 20px;
  line-height: 100%;
@@ -283,7 +283,7 @@
 }
 .fae-comm-02 {
  width: 230px;
- height: 448px;
+ height: 403px;
  background: #fefefe;
  border-top: 1px solid #ddd;
  border-bottom: 1px solid #ddd;
@@ -292,7 +292,7 @@
 .fae-comm-03 {
  width: 210px;
  height: auto;
- padding: 3px 10px 5px 10px;
+ padding: 3px 10px 3px 10px;
  background: #fefefe;
  font-size: 13px;
  text-shadow: 1px 0px 0 #fff, -1px 0px 0 #fff, 0px 1px 0 #fff, 0px -1px 0 #fff; 
@@ -303,7 +303,19 @@
  width: 210px;
  height: auto;
  padding: 15px 10px;
- line-height: 10px;
+}
+.fae-comm-04-tbl {
+ width: 210px;
+ height: auto;
+}
+.fae-comm-04-1 {
+ width: 80px;
+ height: 80px;
+}
+.fae-comm-04-2 {
+ width: 130px;
+ height: 80px;
+ text-align: center;
 }
 .fae-comm-04 img {
  width: 70px;
@@ -317,11 +329,7 @@
  font-family: poppins;
  font-size: 13px;
  color: #fff;
-}
-.fae-comm-04 them:before {
- content: 'messaging: ';
- font-size: 9px;
- text-transform: uppercase;
+ line-height: 30px;
 }
 .fae-comm-04 you {
  font-family: poppins;
@@ -364,10 +372,12 @@
  line-height: 31px;
  letter-spacing: 1px;
  border-top: 1px solid #ddd;
+ text-shadow: 1px 0px 0 #fff, -1px 0px 0 #fff, 0px 1px 0 #fff, 0px -1px 0 #fff; 
 }
 .fae-comm-06 right {
  float: right;
  font-size: 15px;
+ line-height: 29px;
 }
 .fae-comm-07 {
  width: 30px;
