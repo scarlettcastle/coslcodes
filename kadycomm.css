@@ -1,0 +1,150 @@
+.kady-comm-05::-webkit-scrollbar { width: 1px; }
+.kady-comm-05::-webkit-scrollbar-track { background: #ddd; }
+.kady-comm-05::-webkit-scrollbar-track-piece { background: #fff; }
+.kady-comm-05::-webkit-scrollbar-thumb { background: #ddd; }
+
+.kady-comm-01 {
+  width: 250px;
+  height: 545px;
+  background: #fafafa;
+  border: 1px solid #ddd;
+  border-radius: 20px;
+  line-height: 100%;
+}
+.kady-comm-001 {
+  width: 100px;
+  height: 3px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  margin-top: 20px;
+}
+.kady-comm-02 {
+  width: 250px;
+  height: 445px;
+  background: #fefefe;
+  margin-top: 20px;
+  border-top: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+}
+.kady-comm-03 {
+  width: 230px;
+  height: auto;
+  padding: 5px 10px 5px 10px;
+  background: #fdfdfd;
+  font-size: 13px;
+  color: var(--accent);
+  text-shadow: 2px 0px 0 #fff, -2px 0px 0 #fff, 0px 2px 0 #fff, 0px -2px 0 #fff; 
+}
+.kady-comm-03 left {
+  float: left;
+}
+.kady-comm-03 right {
+  float: right;
+}
+.kady-comm-04 {
+  width: 250px;
+  height: 110px;
+  margin-left: -1px;
+  background: var(--lighter);
+  border: 1px solid var(--accent);
+}
+.kady-comm-tbl {
+  width: 250px;
+  height: 110px;
+  padding: 0;
+  border: 0;
+}
+.kady-comm-td1 {
+  width: 125px;
+  height: 110px;
+}
+.kady-comm-td2 {
+  width: 125px;
+  height: 110px;
+}
+.kady-comm-04-1 {
+  width: 125px;
+  height: 70px;
+  padding-top: 40px;
+  text-align: center;
+  font-family: roboto;
+  font-size: 14px;
+  line-height: 5px;
+  color: var(--namecolor);
+}
+.kady-comm-04-1 them {
+  font-size: 16px;
+  font-weight: 500;
+}
+.kady-comm-04-1 hr {
+  width: 60%;
+  height: 1px;
+  background-color: var(--accent);
+  color: var(--accent);
+  border: none;
+}
+.kady-comm-04-2 {
+  width: 125px;
+  height: 110px;
+  text-align: center;
+}
+.kady-comm-04-2 img {
+  width: 80px;
+  height: 80px;
+  margin-top: 9px;
+  object-fit: cover;
+  border-radius: var(--imageradius);
+  background: #fefefe;
+  padding: 5px;
+  border: 1px solid var(--accent);
+}
+.kady-comm-005 {
+  width: 240px;
+  height: 275px;
+  padding: 0 5px 5px 5px;
+  font-family: roboto;
+  font-size: 12px;
+  color: #444;
+  border-bottom: 1px solid #ddd;
+}
+.kady-comm-05 {
+  width: 240px;
+  height: 270px;
+  padding-top: 5px;
+  overflow: auto;
+}
+.kady-comm-05 p {
+  max-width: 200px;
+  height: auto;
+  background: #fff;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  padding: 7px;
+  float: right;
+  clear: both;
+  margin: 5px;
+  text-align: justify;
+}
+.kady-comm-06 {
+  width: 230px;
+  height: auto;
+  padding: 3px 10px 3px 10px;
+  background: #fdfdfd;
+  font-size: 12px;
+  line-height: 20px;
+  color: var(--accent);
+  text-shadow: 2px 0px 0 #fff, -2px 0px 0 #fff, 0px 2px 0 #fff, 0px -2px 0 #fff;
+  text-align: left;
+  font-family: roboto;
+}
+.kady-comm-06 span {
+  margin-top: 5px;
+  float: right;
+}
+.kady-comm-006 {
+  width: 30px;
+  height: 30px;
+  border: 1px solid #ddd;
+  border-radius: 100%;
+  margin-top: 10px;
+}
