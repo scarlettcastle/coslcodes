@@ -1,0 +1,130 @@
+.comm02-5::-webkit-scrollbar { width: 1px; }
+.comm02-5::-webkit-scrollbar-track { background: #ddd; }
+.comm02-5::-webkit-scrollbar-track-piece { background: #fff; }
+.comm02-5::-webkit-scrollbar-thumb { background: #ddd; }
+
+
+.comm02-1 {
+  width: 230px;
+  height: 515px;
+  background: #fafafa;
+  border: 1px solid #ddd;
+  border-radius: 15px;
+  line-height: 100%;
+  font-family: noto sans;
+}
+.comm02-1-1 {
+  width: 80px;
+  height: 2px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  margin-top: 15px;
+}
+.comm02-2 {
+  width: 230px;
+  height: 300px;
+  border-top: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+  margin-top: 15px;
+}
+.comm02-3 {
+  width: 210px;
+  height: auto;
+  padding: 10px;
+  background: #fff;
+  border-bottom: 1px solid #ddd;
+  font-size: 15px;
+  color: var(--accent);
+  text-align: center;
+}
+.comm02-3 left {
+  float: left;
+}
+.comm02-3 right {
+  float: right;
+}
+.comm02-4 {
+  width: 230px;
+  height: 110px;
+  background: var(--lightaccent);
+}
+.comm02-4 table {
+  width: 230px;
+  height: 110px;
+}
+.comm02-4 td {
+  width: 115px;
+  height: 110px;
+  text-align: center;
+}
+.comm02-4 img {
+  width: 80px;
+  height: 80px;
+  padding: 8px;
+  background: #fff;
+  object-fit: cover;
+  border-radius: var(--imgradius);
+  border: 1px solid var(--accent);
+  margin-top: -5px;
+}
+.comm02-4-1 {
+  font-size: 15px;
+  text-transform: uppercase;
+  font-weight: 700;
+  line-height: 15px;
+  color: var(--accent);
+}
+.comm02-4-1 you {
+  font-size: 12px;
+}
+.comm02-5 {
+  width: 210px;
+  height: 210px;
+  padding: 10px;
+  background: #fff;
+  border-top: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+  font-size: 11px;
+  color: #333;
+  overflow: auto;
+}
+.comm02-5 p {
+  padding: 7px;
+  max-width: 170px;
+  height: auto;
+  background: #fafafa;
+  border-radius: 10px;
+  float: right;
+  clear: both;
+  margin: 5px 0;
+  text-align: justify;
+}
+.comm02-5 img {
+  max-width: 160px;
+  border-radius: 5px;
+}
+.comm02-6 {
+  width: 210px;
+  height: auto;
+  padding: 10px;
+  background: #fff;
+  border-bottom: 1px solid #ddd;
+  font-size: 9px;
+  color: var(--accent);
+  text-align: center;
+}
+.comm02-6 left {
+  float: left;
+  font-size: 15px;
+}
+.comm02-6 right {
+  float: right;
+  font-size: 15px;
+}
+.comm02-1-2 {
+  width: 30px;
+  height: 30px;
+  border: 1px solid #ddd;
+  border-radius: 100%;
+  margin-top: 15px;
+}
