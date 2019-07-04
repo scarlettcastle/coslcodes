@@ -1,0 +1,257 @@
+.cami-trc-01 {
+  width: 400px;
+  height: auto;
+  padding: 15px;
+  background: #fefefe;
+  border: 1px solid #eee;
+  line-height: 100%;
+}
+.cami-trc-02 {
+  width: 390px;
+  height: auto;
+  padding: 5px;
+  background: #fcfcfc;
+  border: 1px solid #eee;
+}
+.cami-trc-03 {
+  width: 360px;
+  height: auto;
+  padding: 15px;
+  background-color: var(--accent);
+  font-family: roboto;
+  font-weight: 700;
+  font-size: 14px;
+  color: #fff;
+  letter-spacing: 1px;
+  text-align: right;
+}
+.cami-trc-tbl {
+  width: 390px;
+  height: 240px;
+  padding: 20px;
+}
+.cami-trc-tr {
+  width: 350px;
+  height: 100px;
+}
+.cami-trc-tdlu {
+  width: 250px;
+  height: 100px;
+}
+.cami-trc-nm {
+  width: 210px;
+  height: 60px;
+  padding: 20px;
+  font-family: roboto;
+  text-align: center;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 30px;
+  color: var(--accent);
+}
+.cami-trc-nm fc {
+  font-weight: 400;
+  color: #555;
+  font-size: 14px;
+}
+.cami-trc-nm fc:before {
+  content: '{ ';
+  color: var(--accent);
+}
+.cami-trc-nm fc:after {
+  content: ' }';
+  color: var(--accent);
+}
+.cami-trc-tdru {
+  width: 100px;
+  height: 100px;
+}
+.cami-trc-gif1 {
+  width: 80px;
+  height: 80px;
+  padding: 15px 10px 5px 10px;
+}
+.cami-trc-gif1 img {
+  width: 68px;
+  height: 68px;
+  padding: 5px;
+  border: 1px solid var(--accent);
+  object-fit: cover;
+}
+.cami-trc-tdld {
+  width: 250px;
+  height: 100px;
+}
+.cami-trc-lin {
+  width: 148px;
+  height: auto;
+  max-height: 28px;
+  padding: 20px;
+  margin-left: 30px;
+  overflow: auto;
+  font-family: roboto;
+  text-align: center;
+  color: var(--accent);
+  font-size: 12px;
+  line-height: 14px;
+  border: 1px solid var(--accent);
+}
+.cami-trc-lin a {
+  text-decoration: none;
+  color: var(--accent);
+}
+.cami-trc-tdrd {
+  width: 100px;
+  height: 100px;
+}
+.cami-trc-gif2 {
+  width: 80px;
+  height: 80px;
+  padding: 5px 10px 15px 10px;
+}
+.cami-trc-gif2 img {
+  width: 68px;
+  height: 68px;
+  padding: 5px;
+  border: 1px solid var(--accent);
+  object-fit: cover;
+}
+
+
+.cami2-thr-01 {
+  width: 202px;
+  height: auto;
+  padding: 15px;
+  background: #fefefe;
+  border: 1px solid #eee;
+  line-height: 100%;
+}
+.cami2-thr-01-1 {
+  width: 190px;
+  height: auto;
+  padding: 5px;
+  background: #fcfcfc;
+  border: 1px solid #eee;
+}
+.cami2-thr-02 {
+  width: 190px;
+  height: 120px;
+}
+.cami2-thr-02 img {
+  width: 178px;
+  height: 108px;
+  padding: 5px;
+  border: 1px solid var(--accent);
+  object-fit: cover;
+}
+.cami2-thr-03 {
+  width: 168px;
+  height: auto;
+  padding: 10px;
+  margin-top: 15px;
+  background: #fff;
+  border: 1px solid #eee;
+  font-family: roboto;
+  font-weight: 400;
+  font-size: 11px;
+  color: #555;
+  text-align: justify;
+  line-height: 14px;
+}
+.cami2-thr-03 i {
+  border-bottom: 2px solid var(--accent);
+}
+.cami2-thr-03 b {
+  color: var(--accent);
+  font-weight: 900;
+  font-size: 13px;
+}
+.cami2-thr-03 b i {
+  border-bottom: none;
+}
+.cami2-thr-04 {
+  width: 170px;
+  height: auto;
+  padding: 10px;
+  margin-top: 15px;
+  background: var(--accent);
+  color: #fff;
+  font-family: roboto;
+  font-weight: 700;
+  font-size: 14px;
+  letter-spacing: 1px;
+}
+.cami2-thr-04 a {
+  text-decoration: none;
+  color: #fff;
+}
+
+.cami-thr-01 {
+  width: 202px;
+  height: auto;
+  padding: 15px;
+  background: #fefefe;
+  border: 1px solid #eee;
+  line-height: 100%;
+}
+.cami-thr-01-1 {
+  width: 190px;
+  height: auto;
+  padding: 5px;
+  background: #fcfcfc;
+  border: 1px solid #eee;
+}
+.cami-thr-02 {
+  width: 160px;
+  height: 120px;
+  padding: 15px;
+}
+.cami-thr-02 img {
+  width: 110px;
+  height: 110px;
+  padding: 5px;
+  border: 1px solid var(--accent);
+  object-fit: cover;
+  border-radius: 100%;
+}
+.cami-thr-03 {
+  width: 168px;
+  height: auto;
+  padding: 10px;
+  margin-top: 5px;
+  background: #fff;
+  border: 1px solid #eee;
+  font-family: roboto;
+  font-weight: 400;
+  font-size: 11px;
+  color: #555;
+  text-align: justify;
+  line-height: 14px;
+}
+.cami-thr-03 i {
+  border-bottom: 2px solid var(--accent);
+}
+.cami-thr-03 b {
+  color: var(--accent);
+  font-weight: 900;
+  font-size: 13px;
+}
+.cami-thr-03 b i {
+  border-bottom: none;
+}
+.cami-thr-04 {
+  width: 170px;
+  height: auto;
+  padding: 10px;
+  margin-top: 15px;
+  background: var(--accent);
+  color: #fff;
+  font-family: roboto;
+  font-weight: 700;
+  font-size: 14px;
+  letter-spacing: 1px;
+}
+.cami-thr-04 a {
+  text-decoration: none;
+  color: #fff;
+}
