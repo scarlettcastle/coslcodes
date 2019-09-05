@@ -1,0 +1,155 @@
+@font-face { 
+font-family: "signerica"; 
+src: url('https://files.jcink.net/uploads/scarlettcodes/Signerica_Medium.ttf'); 
+}
+
+.dev01-all {
+  line-height: 100%;
+}
+.dev01-1 {
+  width: 375px;
+  height: auto;
+  padding: 50px 25px 25px 0px;
+  background: #fafafa;
+  border: 1px solid #e7e7e7;
+  border-bottom: 0;
+  text-align: right;
+}
+.dev01-1 name {
+  font-family: signerica;
+  font-style: italic;
+  font-size: 35px;
+  line-height: 10px;
+  color: var(--accent);
+  text-shadow: 2px 0px 0 #fff, -2px 0px 0 #fff, 0px 2px 0 #fff, 0px -2px 0 #fff;
+}
+.dev01-1 info {
+  font-family: libre franklin;
+  font-weight: 400;
+  font-size: 11px;
+  color: #ccc;
+  margin-right: 5px;
+  text-shadow: 1px 0px 0 #fff, -1px 0px 0 #fff, 0px 1px 0 #fff, 0px -1px 0 #fff;
+}
+.dev01-2 {
+  width: 350px;
+  height: auto;
+  padding: 25px 25px 22px 25px;
+  background: #fefefe;
+  border: 1px solid #e7e7e7;
+}
+.dev01-2 img {
+  width: 141px;
+  height: 141px;
+  object-fit: cover;
+  background: #fff;
+  border: 1px solid #e7e7e7;
+  padding: 15px;
+}
+.dev01-3 {
+  width: 350px;
+  height: auto;
+  padding: 25px 25px 22px 25px;
+  background: #fefefe;
+  border: 1px solid #e7e7e7;
+}
+.dev01-3 img {
+  width: 318px;
+  height: auto;
+  background: #fff;
+  border: 1px solid #e7e7e7;
+  padding: 15px;
+}
+.dev01-4 {
+  width: 350px;
+  height: auto;
+  padding: 25px 25px 22px 25px;
+  background: #fefefe;
+  border: 1px solid #e7e7e7;
+  font-family: libre franklin;
+  font-weight: 300;
+  font-size: 13px;
+  color: #aaa;
+  line-height: 14px;
+  text-align: justify;
+  text-transform: lowercase;
+}
+.dev01-4:before {
+  content: '" ';
+  color: var(--accent);
+  font-size: 17px;
+}
+.dev01-4:after {
+  content: ' "';
+  color: var(--accent);
+  font-size: 17px;
+}
+.dev01-4 b {
+  color: var(--accent);
+  font-weight: 600;
+}
+.dev01-4 i {
+  color: #bbb;
+  font-style: italic;
+}
+.dev01-5 {
+  width: 350px;
+  height: auto;
+  padding: 25px 25px 22px 25px;
+  background: #fefefe;
+  border: 1px solid #e7e7e7;
+  color: #aaa;
+}
+.dev01-5-l {
+  width: 110px;
+  height: 110px;
+  vertical-align: top;
+}
+.dev01-5-l img {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  padding: 5px;
+  border-radius: 10px;
+}
+.dev01-5-r {
+  width: 230px;
+  height: auto;
+  padding:5px;
+  font-family: libre franklin;
+}
+.dev01-5-r tit {
+  font-size: 20px;
+  font-weight: 600;
+  color: var(--accent);
+}
+.dev01-5-r inf {
+  font-size: 16px;
+  font-weight: 300;
+}
+.dev01-5-s {
+  width: 220px;
+  min-height: 30px;
+  font-size: 13px;
+  font-weight: 300;
+  padding: 5px 0 5px 0;
+  margin-bottom: -1px;
+  border-top: 1px solid #e7e7e7;
+  border-bottom: 1px solid #e7e7e7;
+}
+.dev01-5-s b {
+  font-weight: 600;
+  color: #999;
+}
+.dev01-5-s img {
+  width: 30px;
+  height: 30px;
+  border-radius: 5px;
+  float: left;
+  margin-right: 5px;
+}
+.dev01-5-s .icon {
+  float: right;
+  margin-top: -8px;
+  color: var(--accent);
+}
