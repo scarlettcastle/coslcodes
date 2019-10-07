@@ -1,0 +1,95 @@
+@font-face { 
+font-family: "signerica"; 
+src: url('https://files.jcink.net/uploads/scarlettcodes/Signerica_Medium.ttf'); 
+}
+
+.thr01-1 {
+  width: 260px;
+  height: auto;
+  padding: 20px;
+  background: #fefefe;
+  border: 1px solid #e7e7e7;
+  line-height: 100%;
+}
+.thr01-tbl {
+  width: 260px;
+  height: 120px;
+}
+.thr01-left {
+  width: 80px;
+  height: 120px;
+  vertical-align: bottom;
+}
+.thr01-left img {
+  width: 68px;
+  height: 68px;
+  padding: 5px;
+  background: #fff;
+  border: 1px solid #e7e7e7;
+  border-radius: 100%;
+}
+.thr01-mid {
+  width: 100px;
+  height: 120px;
+  vertical-align: top;
+}
+.thr01-mid img {
+  width: 88px;
+  height: 88px;
+  padding: 5px;
+  background: #fff;
+  border: 1px solid var(--accent);
+  border-radius: 100%;
+}
+.thr01-right {
+  width: 80px;
+  height: 120px;
+  vertical-align: bottom;
+}
+.thr01-right img {
+  width: 68px;
+  height: 68px;
+  padding: 5px;
+  background: #fff;
+  border: 1px solid #e7e7e7;
+  border-radius: 100%;
+}
+.thr01-2 {
+  width: 218px;
+  height: auto;
+  padding: 20px;
+  margin-top: 20px;
+  background: #fff;
+  border: 1px solid #e7e7e7;
+  font-family: libre franklin;
+  font-weight: 300;
+  font-size: 13px;
+  color: #888;
+  line-height: 16px;
+  text-align: justify;
+}
+.thr01-2 b {
+  font-weight: 600;
+  color: var(--accent);
+  font-size: 15px;
+}
+.thr01-2 i {
+  font-style: italic;
+  color: #aaa;
+}
+.thr01-3 {
+  width: 240px;
+  height: auto;
+  padding: 10px;
+  margin-top: 20px;
+  background: #fff;
+  border: 1px solid var(--accent);
+  color: #aaa;
+  font-family: libre franklin;
+  font-size: 11px;
+  line-height: 14px;
+}
+.thr01-3 a {
+  text-decoration: none;
+  color: var(--accent) !important;
+}
