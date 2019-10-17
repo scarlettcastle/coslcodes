@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css?family=Muli:400,700,800|Playfair+Display:400i&display=swap');
+
+.maddie-thr-01 {
+  width: 304px;
+  height: auto;
+  padding: 15px;
+  background: #202020;
+  border: 1px solid #000;
+  line-height: 100%;
+}
+.maddie-thr-02 {
+  width: 242px;
+  height: auto;
+  padding: 30px;
+  background: #2d2d2d;
+  border: 1px solid #000;
+}
+.maddie-thr-03 {
+  width: 190px;
+  height: 90px;
+  padding: 25px;
+  background: var(--mg19a);
+  border: 1px solid var(--mg19);
+}
+.maddie-thr-03 img {
+  width: 190px;
+  height: 90px;
+  object-fit: cover;
+}
+.maddie-thr-04 {
+  width: 190px;
+  height: auto;
+  padding: 25px;
+  margin-top: 30px;
+  background: #202020;
+  border: 1px solid #000;
+  text-align: justify;
+  font-family: muli;
+  color: #999;
+  font-size: 12px;
+  line-height: 16px;
+}
+.maddie-thr-04 b {
+  color: var(--mg19);
+  font-size: 13px;
+}
+.maddie-thr-04 i {
+  font-family: playfair display;
+  color: var(--mg19);
+  font-size: 13px;
+}
+.maddie-thr-05 {
+  width: 210px;
+  height: auto;
+  padding: 15px;
+  margin-top: 30px;
+  background: #202020;
+  border: 1px solid var(--mg19);
+  font-family: muli;
+  font-size: 11px;
+  color: #999;
+}
+.maddie-thr-05 a {
+  text-decoration: none;
+  color: var(--mg19) !important;
+}
