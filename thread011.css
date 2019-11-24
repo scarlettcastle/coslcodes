@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css?family=Libre+Franklin:300i,400&display=swap');
+
+.thr5-01 {
+  width: 300px;
+  height: auto;
+  padding: 5px;
+  background: #fff;
+  border: 1px solid #ddd;
+  border-radius: 7px;
+  line-height: 100%;
+}
+.thr5-02 {
+  width: 220px;
+  height: auto;
+  padding: 40px;
+  background: var(--accent1);
+  background: linear-gradient(135deg, var(--accent1) 0%, var(--accent2) 100%);
+  border-radius: 4px;
+}
+.thr5-03 {
+  width: 210px;
+  height: 110px;
+  padding: 5px;
+  background: #fff;
+  border-radius: 7px;
+}
+.thr5-03 img {
+  width: 210px;
+  height: 110px;
+  object-fit: cover;
+  border-radius: 4px;
+}
+.thr5-04 {
+  width: 190px;
+  height: auto;
+  padding: 15px;
+  margin-top: 20px;
+  background: #fff;
+  border-radius: 7px;
+  font-family: libre franklin;
+  font-size: 11px;
+  color: #333;
+  line-height: 17px;
+  text-align: justify;
+}
+.thr5-04 b {
+  font-weight: 400;
+  font-size: 14px;
+  border-bottom: 1px solid var(--accent1);
+}
+.thr5-04 i {
+  font-weight: 300;
+}
+.thr5-05 {
+  width: 200px;
+  height: auto;
+  padding: 10px;
+  margin-top: 20px;
+  background: #fff;
+  border-radius: 7px;
+  font-family: libre franklin;
+  font-size: 9px;
+  color: #333;
+  line-height: 15px;
+  text-align: center;
+}
+.thr5-05 a {
+  color: #333 !important;
+  text-decoration: none !important;
+}
