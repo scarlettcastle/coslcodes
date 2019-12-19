@@ -1,0 +1,361 @@
+@import url('https://fonts.googleapis.com/css?family=Libre+Baskerville:400i|Poppins:300,400,600,800&display=swap');
+
+
+.cris-dev-01 {
+  width: 400px;
+  height: auto;
+  position: relative;
+  outline: 1px solid rgb(var(--accent));
+  outline-offset: 10px;
+  line-height: 100%;
+  background: var(--main);
+  color: #333;
+  --gray: grayscale(100%);
+  --color: none;
+  --yes: multiply;
+  --no: none;
+}
+.cris-dev-01 line1 {
+  width: 360px;
+  height: 1px;
+  background: var(--main);
+  position: absolute;
+  z-index: 2;
+  top: 40px;
+  left: 0;
+}
+.cris-dev-01 line2 {
+  width: 1px;
+  height: 360px;
+  background: var(--main);
+  position: absolute;
+  z-index: 2;
+  top: 40px;
+  right: 40px;
+}
+.cris-dev-01 name {
+  height: 360px;
+  width: 40px;
+  display: flex;
+  align-items: center;
+  position: absolute;
+  top: 40px;
+  right: 0;
+  z-index: 2;
+  writing-mode: vertical-rl; 
+  font-family: poppins;
+  font-size: 19px;
+  line-height: 24px;
+  text-transform: uppercase;
+  font-weight: 800;
+  float: left;
+  color: var(--main);
+  letter-spacing: 1px;
+}
+.cris-dev-02 {
+  width: 400px;
+  height: 400px;
+  background: rgb(var(--accent)); 
+}
+.cris-dev-02 img {
+  width: 400px;
+  height: 400px;
+  object-fit: cover;
+  mix-blend-mode: var(--mono);
+  -webkit-filter: var(--image);
+  filter: var(--image);
+}
+.cris-dev-03 {
+  width: 360px;
+  height: auto;
+  margin-top: 10px;
+  padding: 40px 20px;
+  font-family: poppins;
+  text-align: right;
+  border-top: 1px solid rgb(var(--accent));
+}
+.cris-dev-03 info {
+  font-size: 16px;
+  line-height: 21px;
+  text-transform: uppercase;
+  font-weight: 800;
+  float: left;
+  color: rgb(var(--accent));
+  letter-spacing: 1px;
+}
+.cris-dev-03 lyric {
+  float: right;
+  font-size: 10px;
+  font-weight: 300;
+  line-height: 15px;
+  font-style: italic;
+}
+.cris-dev-03 lyric:before {
+  content: '[ ';
+  font-weight: 800;
+  color: rgb(var(--accent));
+}
+.cris-dev-03 lyric:after {
+  content: ' ]';
+  font-weight: 800;
+  color: rgb(var(--accent));
+}
+.cris-dev-03 line3 {
+  width: 250px;
+  height: 1px;
+  background: rgb(var(--accent));
+  position: absolute;
+  z-index: 2;
+  bottom: 45px;
+  right: 0;
+}
+.cris-dev-04 {
+  width: 400px;
+  height: auto;
+  position: relative;
+  outline: 1px solid rgb(var(--accent));
+  outline-offset: 10px;
+  line-height: 100%;
+  background: rgb(var(--accent));
+  color: #333;
+}
+.cris-dev-05 {
+  width: 320px;
+  height: auto;
+  padding: 40px;
+  font-family: poppins;
+  text-align: right;
+  border-bottom: 1px solid var(--main);
+}
+.cris-dev-05 line1 {
+  width: 250px;
+  height: 1px;
+  background: var(--main);
+  position: absolute;
+  z-index: 2;
+  top: 65px;
+  right: 0;
+}
+.cris-dev-05 song {
+  font-size: 18px;
+  line-height: 23px;
+  text-transform: uppercase;
+  font-weight: 800;
+  float: left;
+  color: var(--main);
+  letter-spacing: 1px;
+}
+.cris-dev-05 artist {
+  float: right;
+  font-size: 12px;
+  font-weight: 300;
+  line-height: 17px;
+  color: var(--main);
+  text-transform: var(--lyrics);
+  font-style: italic;
+}
+.cris-dev-05 artist:before {
+  content: 'by [ ';
+  font-weight: 500;
+  color: var(--main);
+}
+.cris-dev-05 artist:after {
+  content: ' ]';
+  font-weight: 500;
+  color: var(--main);
+}
+.cris-dev-06-1 {
+  width: 360px;
+  height: auto;
+  margin-top: 10px;
+  padding: 0 40px 40px 0;
+  background: var(--main);
+}
+.cris-dev-06 {
+  width: 278px;
+  height: auto;
+  padding: 40px;
+  border-bottom: 1px solid rgb(var(--accent));
+  border-right: 1px solid rgb(var(--accent));
+  font-family: poppins;
+  font-size: 11px;
+  line-height: 16px;
+  font-weight: 300;
+  text-align: left;
+  white-space: pre;
+}
+.cris-dev-06 blockquote {
+  margin: 0 0 0 10px;
+  padding-left: 10px;
+  border-left: 1px solid rgb(var(--accent));
+}
+.cris-dev-06 h1 {
+  display: inline;
+  margin: 0;
+  font-size: 15px;
+  line-height: 20px;
+  font-weight: 600;
+  color: rgb(var(--accent));
+  letter-spacing: 1px;
+}
+.cris-dev-06 i {
+  font-family: libre baskerville
+}
+.cris-dev-06 b {
+  color: rgb(var(--accent));
+  font-weight: 600;
+}
+.cris-app-01 {
+  width: 450px;
+  height: auto;
+  position: relative;
+  outline: 1px solid rgb(var(--accent));
+  outline-offset: 10px;
+  line-height: 100%;
+  background: var(--main);
+  color: #333;
+  --gray: grayscale(100%);
+  --color: none;
+}
+.cris-app-02 {
+  width: 450px;
+  height: auto;
+  background: var(--main); 
+}
+.cris-app-02 line1 {
+  width: 1px;
+  height: 110px;
+  background: var(--main);
+  position: absolute;
+  z-index: 2;
+  top: 0;
+  left: 220px;
+}
+.cris-app-02 line2 {
+  width: 1px;
+  height: 260px;
+  background: rgb(var(--accent));
+  position: absolute;
+  z-index: 2;
+  top: 110px;
+  left: 220px;
+}
+.cris-app-02 line3 {
+  width: 120px;
+  height: 1px;
+  background: rgb(var(--accent));
+  position: absolute;
+  z-index: 2;
+  top: 370px;
+  left: 101px;
+}
+.cris-app-02 line4 {
+  width: 170px;
+  height: 1px;
+  background: var(--main);
+  position: absolute;
+  z-index: 2;
+  top: 47px;
+  right: 0;
+}
+.cris-app-03 {
+  width: 400px;
+  height: 60px;
+  padding: 20px 50px 30px 0;
+  background: rgb(var(--accent));
+  font-family: poppins;
+  font-size: 12px;
+  line-height: 22px;
+  color: var(--main);
+  letter-spacing: 1px;
+  font-style: italic;
+  text-align: right;
+}
+.cris-app-03 nick {
+  font-size: 14px;
+  line-height: 29px;
+  font-weight: 600;
+}
+.cris-app-03 nick:before {
+  content: '[ ';
+  font-weight: 600;
+}
+.cris-app-03 nick:after {
+  content: ' ]';
+  font-weight: 600;
+}
+.cris-app-03 age:before {
+  content: '[ ';
+  font-weight: 600;
+}
+.cris-app-03 age:after {
+  content: ' ]';
+  font-weight: 600;
+}
+.cris-app-03 work:before {
+  content: '[ ';
+  font-weight: 600;
+}
+.cris-app-03 work:after {
+  content: ' ]';
+  font-weight: 600;
+}
+.cris-app-03 img {
+  width: 160px;
+  height: 350px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  left: 40px;
+  -webkit-filter: var(--image);
+  filter: var(--image);
+}
+.cris-app-04 {
+  width: 185px;
+  height: auto;
+  padding: 20px 20px 20px 245px;
+  font-family: poppins;
+  font-size: 10px;
+  text-align: left;
+}
+.cris-app-04 b {
+  display: block;
+  color: rgb(var(--accent));
+  font-size: 11px;
+  padding: 5px 0 0 0;
+}
+.cris-app-04 b:before {
+  content: '[ ';
+  font-style: italic;
+}
+.cris-app-04 b:after {
+  content: ' ]';
+  font-style: italic;
+}
+.cris-app-05 {
+  width: 370px;
+  height: auto;
+  padding: 40px;
+  margin-top: 20px;
+  font-family: poppins;
+  font-size: 11px;
+  line-height: 16px;
+  text-align: justify;
+}
+.cris-app-05 big {
+  display: block;
+  margin-bottom: 5px;
+  color: rgb(var(--accent));
+  font-size: 16px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  border-bottom: 1px solid rgba(var(--accent),.5);
+}
+.cris-app-05 i {
+  font-family: libre baskerville;
+}
+.cris-app-05 b {
+  color: rgb(var(--accent));
+  font-weight: 600;
+}
