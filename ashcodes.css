@@ -1,0 +1,227 @@
+@import url('https://fonts.googleapis.com/css?family=Nunito:300i,400,800&display=swap');
+
+.ash-thr1-01 {
+  width: 250px;
+  height: auto;
+  padding: 10px;
+  border: 1px solid var(--border);
+  background: var(--grey);
+  line-height: 100%;
+  --grey: #fafafa;
+  --light: #fefefe;
+  --border: #dedede;
+  --font: #222;
+}
+.ash-thr1-02-sq {
+  width: 250px;
+  height: auto;
+  padding: 40px 0;
+  background: var(--top);
+  background: linear-gradient(160deg, var(--top) 0%, var(--mid)50%, var(--bot) 100%);
+}
+.ash-thr1-02-sq img {
+  width: 95px;
+  height: 95px;
+  object-fit: cover;
+  border-radius: 100%;
+  padding: 5px;
+  background: var(--top);
+  background: linear-gradient(320deg, var(--top) 0%, var(--mid)50%, var(--bot) 100%);
+}
+.ash-thr1-02-rc {
+  width: 250px;
+  height: auto;
+  padding: 30px 0;
+  background: var(--top);
+  background: linear-gradient(160deg, var(--top) 0%, var(--mid)50%, var(--bot) 100%);
+}
+.ash-thr1-02-rc img {
+  width: 180px;
+  height: 95px;
+  object-fit: cover;
+  padding: 5px;
+  background: var(--top);
+  background: linear-gradient(320deg, var(--top) 0%, var(--mid)50%, var(--bot) 100%);
+}
+.ash-thr1-03 {
+  width: 208px;
+  height: auto;
+  padding: 20px;
+  background: var(--light);
+  border: 1px solid var(--border);
+  font-family: nunito;
+  font-size: 11px;
+  line-height: 15px;
+  text-align: justify;
+  font-weight: 400;
+  color: var(--font);
+}
+.ash-thr1-03 b {
+  font-size: 13px;
+  font-weight: 800;
+  color: var(--bold);
+}
+.ash-thr1-04 {
+  width: 228px;
+  height: auto;
+  padding: 10px 10px 0 10px;
+  background: var(--grey);
+  font-family: nunito;
+  font-size: 11px;
+  text-transform: uppercase;
+  color: var(--font);
+}
+.ash-thr1-04 a {
+  color: var(--tag) !important;
+  text-decoration: none;
+}
+.ash-thr1-04:before {
+  content: 'for: ';
+}
+
+@font-face {
+  font-family: 'typicons';
+  src: url("https://files.jcink.net/uploads/scarlettcodes/typicons.eot");
+  src: url("https://files.jcink.net/uploads/scarlettcodes/typicons.eot?#iefix") format('embedded-opentype'),
+       url("https://files.jcink.net/uploads/scarlettcodes/typicons.woff") format('woff'),
+       url("https://files.jcink.net/uploads/scarlettcodes/typicons.ttf") format('truetype'),
+       url("https://files.jcink.net/uploads/scarlettcodes/typicons.svg#typicons") format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.comm4-05::-webkit-scrollbar { width: 1px; }
+.comm4-05::-webkit-scrollbar-track { background: var(--grey); }
+.comm4-05::-webkit-scrollbar-track-piece { background: var(--light); }
+.comm4-05::-webkit-scrollbar-thumb { background: var(--grey); }
+
+
+.ash-comm1-01 {
+  width: 240px;
+  height: auto;
+  padding: 10px;
+  border: 1px solid var(--border);
+  background: var(--grey);
+  border-radius: 15px;
+  line-height: 100%;
+  --grey: #fafafa;
+  --light: #fefefe;
+  --dark: #222;
+  --border: #dedede;
+  --font: #222;
+}
+.ash-comm1-02 {
+  width: 240px;
+  height: 140px;
+  position: relative;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  background: var(--top);
+  background: linear-gradient(160deg, var(--top) 0%, var(--mid)50%, var(--bot) 100%);
+}
+.ash-comm1-02-1 img {
+  width: 80px;
+  height: 80px;
+  object-fit: cover;
+  border-radius: 100%;
+  padding: 5px;
+  position: absolute;
+  top: 35px;
+  left: 15px;
+  background: var(--top);
+  background: linear-gradient(320deg, var(--top) 0%, var(--mid)50%, var(--bot) 100%);
+}
+.ash-comm1-03 {
+  width: 220px;
+  height: 18px;
+  padding: 5px 10px 0 10px;
+  font-size: 18px;
+  color: var(--main);
+  text-align: center;
+}
+.ash-comm1-03 left {
+  float: left;
+}
+.ash-comm1-03 right {
+  float: right;
+}
+.ash-comm1-04 {
+  width: 105px;
+  height: 65px;
+  padding: 35px 15px 15px 15px;
+  font-family: nunito;
+  text-align: right;
+  position: absolute;
+  right: 0;
+}
+.ash-comm1-04 them {
+  font-size: 15px;
+  color: var(--main);
+  display: block;
+}
+.ash-comm1-04 you {
+  font-size: 16px;
+  color: var(--main);
+  display: block;
+}
+.ash-comm1-04 you:before {
+  content: 'from: ';
+  font-size: 10px;
+  font-weight: 300;
+}
+.ash-comm1-05 {
+  width: 208px;
+  height: 240px;
+  padding: 15px;
+  background: var(--light);
+  border: 1px solid var(--border);
+  border-bottom: none;
+  overflow: auto;
+  text-align: justify;
+  font-family: nunito;
+  font-size: 11px;
+  line-height: 15px;
+  font-weight: 400;
+  color: var(--font);
+}
+.ash-comm1-05 b {
+  font-size: 13px;
+  font-weight: 800;
+  color: var(--bold);
+}
+.ash-comm1-05 p {
+  max-width: 155px;
+  height: auto;
+  padding: 5px 10px;
+  float: right;
+  clear: both;
+  margin: 4px 0;
+  background: var(--grey);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+}
+.ash-comm1-06 {
+  width: 208px;
+  height: 20px;
+  padding: 10px 10px 10px 20px;
+  background: var(--light);
+  border: 1px solid var(--border);
+  border-top: none;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  text-align: left;
+  font-family: nunito;
+  font-size: 12px;
+  color: var(--font);
+  font-weight: 300;
+}
+.ash-comm1-06 send {
+  background: var(--grey);
+  padding: 5px 70px 5px 20px;
+  border-radius: 15px;
+}
+.ash-comm1-06 .typcn {
+  float: right;
+  font-size: 25px;
+  color: var(--bold);
+}
